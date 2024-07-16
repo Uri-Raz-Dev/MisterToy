@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Cute Doll",
+        "createdAt": "12/22/2021",
+        "inStock": false,
+        "labels": [
+            "On wheels",
+            "Puzzle",
+            "Outdoor"
+        ],
+        "price": 72,
+        "_id": "t101"
+    },
+    {
+        "name": "Futuristic Robot",
+        "createdAt": "12/22/2021",
+        "inStock": true,
+        "labels": [
+            "Advanced",
+            "Electronics"
+        ],
+        "price": 1200,
+        "_id": "t102"
+    },
+    {
+        "name": "Handmade Painting",
+        "createdAt": "12/20/2021",
+        "inStock": true,
+        "labels": [
+            "Art",
+            "Handmade"
+        ],
+        "price": 200,
+        "_id": "t103"
+    },
+    {
+        "name": "Sporty Bicycle",
+        "createdAt": "12/18/2021",
+        "inStock": false,
+        "labels": [
+            "Cycling",
+            "Sports"
+        ],
+        "price": 150,
+        "_id": "t104"
+    },
+    {
+        "name": "Vintage Camera",
+        "createdAt": "12/15/2021",
+        "inStock": true,
+        "labels": [
+            "Antique",
+            "Photography"
+        ],
+        "price": 1000,
+        "_id": "t105"
+    }
+]
