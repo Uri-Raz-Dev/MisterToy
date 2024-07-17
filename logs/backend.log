@@ -31,3 +31,70 @@
 17.7.2024, 19:15:08 - INFO - toy t102 removed
 17.7.2024, 19:16:02 - INFO - Server listening on port http://127.0.0.1:3030/
 17.7.2024, 19:17:07 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 19:43:31 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 19:44:00 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 19:58:39 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+17.7.2024, 19:58:53 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+17.7.2024, 19:58:55 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+17.7.2024, 19:58:55 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+17.7.2024, 19:58:57 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+17.7.2024, 19:59:11 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+17.7.2024, 20:01:24 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+17.7.2024, 20:03:08 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 20:34:10 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+17.7.2024, 20:34:28 - INFO - user checklogin: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
+17.7.2024, 20:41:23 - INFO - user checklogin: | {"_id":"YjCf9","fullname":"a"}
+17.7.2024, 20:42:45 - INFO - user checklogin: | {"_id":"YjCf9","fullname":"a"}
+17.7.2024, 20:42:46 - INFO - user checklogin: | {"_id":"YjCf9","fullname":"a"}
+17.7.2024, 20:42:46 - INFO - user checklogin: | {"_id":"YjCf9","fullname":"a"}
+17.7.2024, 20:42:46 - INFO - user checklogin: | {"_id":"YjCf9","fullname":"a"}
+17.7.2024, 20:42:46 - INFO - user checklogin: | {"_id":"YjCf9","fullname":"a"}
+17.7.2024, 20:43:22 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+17.7.2024, 20:44:51 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","isAdmin":true}
+17.7.2024, 20:46:44 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 20:50:10 - INFO - Cannot remove toy, No user
+17.7.2024, 20:50:10 - INFO - loggedinUser toy delete: | null
+17.7.2024, 20:50:43 - INFO - loggedinUser toy delete: | null
+17.7.2024, 20:50:43 - INFO - Cannot remove toy, No user
+17.7.2024, 20:50:56 - INFO - user checklogin: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
+17.7.2024, 20:51:01 - INFO - loggedinUser toy delete: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
+17.7.2024, 20:51:01 - INFO - toy t103 removed
+17.7.2024, 20:51:26 - INFO - user checklogin: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
+17.7.2024, 20:53:29 - INFO - user checklogin: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
+17.7.2024, 20:55:25 - INFO - loggedinUser toy delete: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
+17.7.2024, 20:55:25 - INFO - toy TWiis removed
+17.7.2024, 20:55:33 - INFO - loggedinUser toy delete: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
+17.7.2024, 20:55:34 - INFO - toy jPk22 removed
+17.7.2024, 20:55:38 - INFO - loggedinUser toy delete: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
+17.7.2024, 20:55:38 - INFO - toy BtLn4 removed
+17.7.2024, 20:55:40 - INFO - loggedinUser toy delete: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
+17.7.2024, 20:55:40 - INFO - toy VTSwq removed
+17.7.2024, 20:57:27 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:05:09 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:05:12 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:05:21 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:05:54 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:06:25 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:10:13 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:10:42 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:10:51 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:13:15 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:13:34 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:15:15 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:19:37 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:21:29 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:21:43 - INFO - user checklogin: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
+17.7.2024, 21:22:32 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:22:41 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:24:02 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:24:41 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:25:15 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:25:43 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:26:11 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:26:41 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:27:14 - INFO - loggedinUser toy delete: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
+17.7.2024, 21:27:14 - INFO - toy P8e0L removed
+17.7.2024, 21:28:30 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:30:52 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:31:00 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 21:31:06 - INFO - user checklogin: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}

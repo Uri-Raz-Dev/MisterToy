@@ -31,10 +31,12 @@ function query(filterBy = {}) {
     }
     if (filterBy.createdAt) {
         toysToReturn = toysToReturn.sort((a, b) => {
+            const dateA = new Date(a.createdAt)
+            const dateB = new Date(b.createdAt)
             if (filterBy.createdAt === 'true') {
-                return b.createdAt - a.createdAt
+                return dateB - dateA
             } else if (filterBy.createdAt === 'false') {
-                return a.createdAt - b.createdAt
+                return dateA - dateB
             } else {
                 return 0
             }

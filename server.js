@@ -52,7 +52,7 @@ app.get('/api/toy', (req, res) => {
         price: +req.query.price || 0,
         labels: req.query.labels || [],
         inStock: req.query.inStock || '',
-        createdAt: +req.query.createdAt || '',
+        createdAt: req.query.createdAt || '',
     }
     toyService.query(filterBy)
         .then((toys) => {

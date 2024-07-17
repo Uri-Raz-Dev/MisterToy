@@ -1,26 +1,15 @@
 [
     {
-        "name": "Cute Doll",
+        "name": "Cute Doll12",
         "createdAt": "12/22/2021",
-        "inStock": false,
+        "inStock": true,
         "labels": [
             "On wheels",
             "Puzzle",
-            "Outdoor"
+            "pizza"
         ],
-        "price": 72,
+        "price": 8133,
         "_id": "t101"
-    },
-    {
-        "name": "Handmade Painting",
-        "createdAt": "12/20/2021",
-        "inStock": true,
-        "labels": [
-            "Art",
-            "Handmade"
-        ],
-        "price": 200,
-        "_id": "t103"
     },
     {
         "name": "Sporty Bicycle",
@@ -45,21 +34,6 @@
         "_id": "t105"
     },
     {
-        "name": "zzz",
-        "price": 150,
-        "labels": [
-            "Cycling",
-            "Sports"
-        ],
-        "inStock": false,
-        "createdAt": "07/17/2024",
-        "_id": "VTSwq",
-        "owner": {
-            "_id": "0Ks1h",
-            "isAdmin": "true"
-        }
-    },
-    {
         "name": "zzzz",
         "price": 155,
         "labels": [
@@ -75,45 +49,14 @@
         }
     },
     {
-        "name": "zzzz",
-        "price": 155,
+        "name": "dsdadsd",
+        "price": 3,
         "labels": [
-            "Cycling",
-            "Sports"
+            "asas.dsd"
         ],
-        "inStock": false,
+        "inStock": true,
         "createdAt": "07/17/2024",
-        "_id": "TWiis",
-        "owner": {
-            "_id": "0Ks1h",
-            "isAdmin": "true"
-        }
-    },
-    {
-        "_id": "jPk22",
-        "name": "zzz",
-        "price": 201,
-        "labels": [
-            "Cycling",
-            "Sports",
-            "surfing"
-        ],
-        "inStock": true,
-        "owner": {
-            "_id": "0Ks1h",
-            "isAdmin": "true"
-        }
-    },
-    {
-        "_id": "BtLn4",
-        "name": "zzz",
-        "price": 201,
-        "labels": [
-            "Cycling",
-            "Sports",
-            "Surfing"
-        ],
-        "inStock": true,
+        "_id": "46Qb1",
         "owner": {
             "_id": "0Ks1h",
             "isAdmin": "true"
