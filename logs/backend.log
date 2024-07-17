@@ -29,3 +29,5 @@
 17.7.2024, 19:14:50 - ERROR - Cannot remove toy | Toy not found
 17.7.2024, 19:15:08 - INFO - loggedinUser toy delete: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
 17.7.2024, 19:15:08 - INFO - toy t102 removed
+17.7.2024, 19:16:02 - INFO - Server listening on port http://127.0.0.1:3030/
+17.7.2024, 19:17:07 - INFO - Server listening on port http://127.0.0.1:3030/
