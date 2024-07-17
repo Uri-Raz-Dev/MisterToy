@@ -1,13 +1,14 @@
 import fs from 'fs'
 import fr from 'follow-redirects'
 
-const {http, https} = fr
+const { http, https } = fr
 
 export const utilService = {
   readJsonFile,
   download,
   httpGet,
-  makeId
+  makeId,
+  getCurrDate
 }
 
 
@@ -19,17 +20,17 @@ function readJsonFile(path) {
 
 function download(url, fileName) {
   return new Promise((resolve, reject) => {
-      const file = fs.createWriteStream(fileName)
-      const protocol = url.startsWith('https') ? https : http
+    const file = fs.createWriteStream(fileName)
+    const protocol = url.startsWith('https') ? https : http
 
-      protocol.get(url, (content) => {
-          content.pipe(file)
-          file.on('error', reject)
-          file.on('finish', () => {
-              file.close()
-              resolve()
-          })
+    protocol.get(url, (content) => {
+      content.pipe(file)
+      file.on('error', reject)
+      file.on('finish', () => {
+        file.close()
+        resolve()
       })
+    })
   })
 }
 
@@ -61,7 +62,18 @@ function makeId(length = 5) {
   let text = ''
   const possible = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
   for (let i = 0; i < length; i++) {
-      text += possible.charAt(Math.floor(Math.random() * possible.length))
+    text += possible.charAt(Math.floor(Math.random() * possible.length))
   }
   return text
+}
+
+
+function getCurrDate() {
+  let today = new Date();
+  let dd = String(today.getDate()).padStart(2, '0')
+  let mm = String(today.getMonth() + 1).padStart(2, '0')
+  let yyyy = today.getFullYear()
+
+  today = mm + '/' + dd + '/' + yyyy
+  return today
 }

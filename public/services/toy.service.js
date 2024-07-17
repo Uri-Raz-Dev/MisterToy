@@ -13,9 +13,9 @@ const toys = utilService.readJsonFile('data/toy.json')
 
 
 function query(filterBy = {}) {
-    const regex = new RegExp(filterBy.txt, 'i')
+    const regex = new RegExp(filterBy.name, 'i')
     let toysToReturn = toys.filter(toy => regex.test(toy.name))
-    if (filterBy.txt) {
+    if (filterBy.name) {
         toysToReturn = toysToReturn.filter(toy => regex.test(toy.name))
     }
     if (filterBy.price) {
@@ -70,8 +70,6 @@ function remove(toyId, loggedinUser) {
     }
     toys.splice(idx, 1)
     return _saveToyToFile()
-        .then(() => toy)
-
 }
 
 function save(toy, loggedinUser) {
@@ -94,7 +92,7 @@ function save(toy, loggedinUser) {
         }
         toys.push(toy)
     }
-    return _saveToyToFile.then(() => toy)
+    return _saveToyToFile().then(() => toy)
 }
 function _saveToyToFile() {
     return new Promise((resolve, reject) => {

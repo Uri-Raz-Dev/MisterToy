@@ -1,5 +1,5 @@
 import fs from 'fs'
-import {utilService} from './util.service.js'
+import { utilService } from './util.service.js'
 
 export const loggerService = {
     debug(...args) {
@@ -40,7 +40,7 @@ function doLog(level, ...args) {
     var line = strs.join(' | ')
     line = `${getTime()} - ${level} - ${line}\n`
     console.log(line)
-    fs.appendFile('./logs/backend.log', line, (err) =>{
+    fs.appendFile('./logs/backend.log', line, (err) => {
         if (err) console.log('FATAL: cannot write to log file')
     })
 }
