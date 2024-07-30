@@ -5,58 +5,35 @@
         "inStock": true,
         "labels": [
             "On wheels",
-            "Puzzle",
-            "pizza"
+            "Puzzle"
         ],
         "price": 8133,
         "_id": "t101"
     },
     {
-        "name": "Sporty Bicycle",
-        "createdAt": "12/18/2021",
-        "inStock": false,
+        "name": "creepy doll",
+        "price": 344,
         "labels": [
-            "Cycling",
-            "Sports"
+            "Spooky",
+            "Cycling"
         ],
-        "price": 150,
-        "_id": "t104"
-    },
-    {
-        "name": "Vintage Camera",
-        "createdAt": "12/15/2021",
         "inStock": true,
-        "labels": [
-            "Antique",
-            "Photography"
-        ],
-        "price": 1000,
-        "_id": "t105"
-    },
-    {
-        "name": "zzzz",
-        "price": 155,
-        "labels": [
-            "Cycling",
-            "Sports"
-        ],
-        "inStock": false,
-        "createdAt": "07/17/2024",
-        "_id": "8vtMO",
+        "createdAt": "07/30/2024",
+        "_id": "kGXlz",
         "owner": {
             "_id": "0Ks1h",
             "isAdmin": "true"
         }
     },
     {
-        "name": "dsdadsd",
-        "price": 3,
+        "name": "Basball toy",
+        "price": 243,
         "labels": [
-            "asas.dsd"
+            "Sports"
         ],
-        "inStock": true,
-        "createdAt": "07/17/2024",
-        "_id": "46Qb1",
+        "inStock": false,
+        "createdAt": "07/30/2024",
+        "_id": "hHYZq",
         "owner": {
             "_id": "0Ks1h",
             "isAdmin": "true"

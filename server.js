@@ -47,14 +47,18 @@ app.get('/nono', (req, res) => res.redirect('/'))
 
 // toy LIST
 app.get('/api/toy', (req, res) => {
-    const filterBy = {
-        name: req.query.name || '',
-        price: +req.query.price || 0,
-        labels: req.query.labels || [],
-        inStock: req.query.inStock || '',
-        createdAt: req.query.createdAt || '',
-    }
-    toyService.query(filterBy)
+    // const filterBy = {
+    //     name: req.query.name || '',
+    //     price: +req.query.price || 0,
+    //     labels: req.query.labels || [],
+    //     inStock: req.query.inStock || '',
+    //     createdAt: req.query.createdAt || '',
+
+    // }
+    // const pageIdx = +req.query.pageIdx || 0
+
+    const { filterBy = {}, pageIdx = 0 } = req.query
+    toyService.query(filterBy, +pageIdx)
         .then((toys) => {
             res.send(toys)
         })
@@ -222,7 +226,7 @@ app.get('/**', (req, res) => {
 
 
 
-const PORT = 3030
-app.listen(PORT, () =>
-    loggerService.info(`Server listening on port http://127.0.0.1:${PORT}/`)
-)
+const port = process.env.PORT || 3030
+app.listen(port, () => {
+    loggerService.info(`Server listening on port http://127.0.0.1:${port}/`)
+})

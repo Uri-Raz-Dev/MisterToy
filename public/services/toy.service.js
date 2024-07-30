@@ -2,6 +2,7 @@ import fs from 'fs'
 import { loggerService } from "./logger.service.js"
 import { utilService } from "./util.service.js"
 
+const PAGE_SIZE = 5
 
 export const toyService = {
     query,
@@ -11,8 +12,7 @@ export const toyService = {
 }
 const toys = utilService.readJsonFile('data/toy.json')
 
-
-function query(filterBy = {}) {
+function query(filterBy = {}, pageIdx) {
     const regex = new RegExp(filterBy.name, 'i')
     let toysToReturn = toys.filter(toy => regex.test(toy.name))
     if (filterBy.name) {
@@ -51,9 +51,11 @@ function query(filterBy = {}) {
             } else {
                 return toy
             }
-
-
         })
+    }
+    if (pageIdx !== undefined) {
+        let startIdx = pageIdx * PAGE_SIZE
+        toysToReturn = toysToReturn.slice(startIdx, startIdx + PAGE_SIZE)
     }
     return Promise.resolve(toysToReturn)
 }
@@ -96,6 +98,8 @@ function save(toy, loggedinUser) {
     }
     return _saveToyToFile().then(() => toy)
 }
+
+
 function _saveToyToFile() {
     return new Promise((resolve, reject) => {
         const data = JSON.stringify(toys, null, 4)
