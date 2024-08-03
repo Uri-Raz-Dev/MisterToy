@@ -186,3 +186,530 @@
 30.7.2024, 21:21:07 - INFO - user checklogin: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
 30.7.2024, 21:22:11 - INFO - user checklogin: | {"_id":"znk5j","fullname":"ddd"}
 30.7.2024, 21:22:18 - INFO - user checklogin: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
+30.7.2024, 22:01:14 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 17:13:53 - INFO - server.js loaded...
+31.7.2024, 17:13:53 - INFO - Server is running on port: 3030
+31.7.2024, 17:15:19 - INFO - server.js loaded...
+31.7.2024, 17:15:19 - INFO - Server is running on port: 3030
+31.7.2024, 17:24:07 - INFO - server.js loaded...
+31.7.2024, 17:24:07 - INFO - Server is running on port: 3030
+31.7.2024, 17:38:09 - INFO - server.js loaded...
+31.7.2024, 17:38:09 - INFO - Server is running on port: 3030
+31.7.2024, 20:13:17 - INFO - server.js loaded...
+31.7.2024, 20:13:17 - INFO - Server is running on port: 3030
+31.7.2024, 20:18:33 - INFO - server.js loaded...
+31.7.2024, 20:18:33 - INFO - Server is running on port: 3030
+31.7.2024, 20:19:32 - INFO - server.js loaded...
+31.7.2024, 20:19:32 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:21:04 - INFO - server.js loaded...
+31.7.2024, 20:21:04 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:21:25 - INFO - server.js loaded...
+31.7.2024, 20:21:25 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:26:21 - INFO - server.js loaded...
+31.7.2024, 20:26:21 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:26:40 - INFO - server.js loaded...
+31.7.2024, 20:26:40 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:26:43 - INFO - server.js loaded...
+31.7.2024, 20:26:43 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:26:44 - INFO - server.js loaded...
+31.7.2024, 20:26:44 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:28:03 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:28:03 - INFO - server.js loaded...
+31.7.2024, 20:28:34 - INFO - Req was made | /
+31.7.2024, 20:30:14 - INFO - server.js loaded...
+31.7.2024, 20:30:14 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:30:26 - INFO - Req was made | /
+31.7.2024, 20:30:27 - INFO - Req was made | /
+31.7.2024, 20:30:28 - INFO - Req was made | /
+31.7.2024, 20:32:13 - INFO - Req was made | /
+31.7.2024, 20:32:15 - INFO - Req was made | /
+31.7.2024, 20:32:15 - INFO - Req was made | /
+31.7.2024, 20:32:16 - INFO - Req was made | /
+31.7.2024, 20:32:17 - INFO - Req was made | /
+31.7.2024, 20:33:31 - INFO - server.js loaded...
+31.7.2024, 20:33:31 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:33:58 - INFO - server.js loaded...
+31.7.2024, 20:33:59 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:35:42 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:35:42 - INFO - server.js loaded...
+31.7.2024, 20:47:32 - INFO - server.js loaded...
+31.7.2024, 20:47:32 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:48:24 - INFO - Req was made | /
+31.7.2024, 20:50:05 - INFO - server.js loaded...
+31.7.2024, 20:50:05 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:50:33 - INFO - server.js loaded...
+31.7.2024, 20:50:33 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:52:26 - INFO - server.js loaded...
+31.7.2024, 20:52:26 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:52:29 - INFO - server.js loaded...
+31.7.2024, 20:52:29 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:52:47 - INFO - server.js loaded...
+31.7.2024, 20:52:47 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:53:45 - INFO - server.js loaded...
+31.7.2024, 20:53:45 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:54:03 - INFO - server.js loaded...
+31.7.2024, 20:54:03 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:54:17 - INFO - Req was made | /
+31.7.2024, 20:54:17 - INFO - Req was made | /
+31.7.2024, 20:54:52 - INFO - Req was made | /
+31.7.2024, 20:59:11 - INFO - server.js loaded...
+31.7.2024, 20:59:11 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 20:59:18 - INFO - Req was made | /
+31.7.2024, 20:59:18 - INFO - Req was made | /
+31.7.2024, 20:59:19 - INFO - Req was made | /
+31.7.2024, 20:59:19 - INFO - Req was made | /
+31.7.2024, 20:59:19 - INFO - Req was made | /
+31.7.2024, 20:59:20 - INFO - Req was made | /
+31.7.2024, 20:59:20 - INFO - Req was made | /
+31.7.2024, 20:59:33 - INFO - Req was made | /
+31.7.2024, 20:59:34 - INFO - Req was made | /
+31.7.2024, 20:59:34 - INFO - Req was made | /
+31.7.2024, 20:59:34 - INFO - Req was made | /
+31.7.2024, 20:59:34 - INFO - Req was made | /
+31.7.2024, 20:59:34 - INFO - Req was made | /
+31.7.2024, 20:59:35 - INFO - Req was made | /
+31.7.2024, 20:59:35 - INFO - Req was made | /
+31.7.2024, 20:59:35 - INFO - Req was made | /
+31.7.2024, 21:00:01 - INFO - server.js loaded...
+31.7.2024, 21:00:01 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:01:52 - INFO - server.js loaded...
+31.7.2024, 21:01:52 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:01:58 - INFO - Req was made | /
+31.7.2024, 21:01:59 - INFO - Req was made | /
+31.7.2024, 21:01:59 - INFO - Req was made | /
+31.7.2024, 21:01:59 - INFO - Req was made | /
+31.7.2024, 21:01:59 - INFO - Req was made | /
+31.7.2024, 21:01:59 - INFO - Req was made | /
+31.7.2024, 21:02:00 - INFO - Req was made | /
+31.7.2024, 21:02:04 - INFO - Req was made | /
+31.7.2024, 21:02:04 - INFO - Req was made | /
+31.7.2024, 21:02:04 - INFO - Req was made | /
+31.7.2024, 21:02:04 - INFO - Req was made | /
+31.7.2024, 21:02:04 - INFO - Req was made | /
+31.7.2024, 21:02:42 - INFO - Req was made | /
+31.7.2024, 21:02:42 - INFO - Req was made | /
+31.7.2024, 21:02:42 - INFO - Req was made | /
+31.7.2024, 21:02:43 - INFO - Req was made | /
+31.7.2024, 21:02:43 - INFO - Req was made | /
+31.7.2024, 21:02:43 - INFO - Req was made | /
+31.7.2024, 21:02:43 - INFO - Req was made | /
+31.7.2024, 21:02:43 - INFO - Req was made | /
+31.7.2024, 21:02:43 - INFO - Req was made | /
+31.7.2024, 21:02:43 - INFO - Req was made | /
+31.7.2024, 21:02:44 - INFO - Req was made | /
+31.7.2024, 21:02:44 - INFO - Req was made | /
+31.7.2024, 21:02:44 - INFO - Req was made | /
+31.7.2024, 21:08:17 - INFO - server.js loaded...
+31.7.2024, 21:08:17 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:16:20 - INFO - server.js loaded...
+31.7.2024, 21:16:20 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:22:12 - ERROR - cannot find users | TypeError: user._id.getTimestamp is not a function
+31.7.2024, 21:22:12 - ERROR - Failed to get users | TypeError: user._id.getTimestamp is not a function
+31.7.2024, 21:22:17 - INFO - Req was made | /
+31.7.2024, 21:26:05 - INFO - server.js loaded...
+31.7.2024, 21:26:05 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:27:29 - INFO - Req was made | /
+31.7.2024, 21:33:12 - INFO - Req was made | /
+31.7.2024, 21:33:13 - INFO - Req was made | /
+31.7.2024, 21:33:13 - INFO - Req was made | /
+31.7.2024, 21:33:13 - INFO - Req was made | /
+31.7.2024, 21:33:13 - INFO - Req was made | /
+31.7.2024, 21:33:14 - INFO - Req was made | /
+31.7.2024, 21:33:14 - INFO - Req was made | /
+31.7.2024, 21:33:14 - INFO - Req was made | /
+31.7.2024, 21:33:14 - INFO - Req was made | /
+31.7.2024, 21:33:15 - INFO - Req was made | /
+31.7.2024, 21:33:15 - INFO - Req was made | /
+31.7.2024, 21:33:26 - INFO - server.js loaded...
+31.7.2024, 21:33:26 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:33:30 - INFO - Req was made | /
+31.7.2024, 21:33:31 - INFO - Req was made | /
+31.7.2024, 21:33:31 - INFO - Req was made | /
+31.7.2024, 21:33:31 - INFO - Req was made | /
+31.7.2024, 21:33:32 - INFO - Req was made | /
+31.7.2024, 21:33:32 - INFO - Req was made | /
+31.7.2024, 21:33:32 - INFO - Req was made | /
+31.7.2024, 21:33:32 - INFO - Req was made | /
+31.7.2024, 21:33:32 - INFO - Req was made | /
+31.7.2024, 21:33:32 - INFO - Req was made | /
+31.7.2024, 21:33:33 - INFO - Req was made | /
+31.7.2024, 21:33:33 - INFO - Req was made | /
+31.7.2024, 21:33:33 - INFO - Req was made | /
+31.7.2024, 21:33:33 - INFO - Req was made | /
+31.7.2024, 21:33:33 - INFO - Req was made | /
+31.7.2024, 21:33:34 - INFO - Req was made | /
+31.7.2024, 21:33:34 - INFO - Req was made | /
+31.7.2024, 21:33:34 - INFO - Req was made | /
+31.7.2024, 21:33:34 - INFO - Req was made | /
+31.7.2024, 21:33:34 - INFO - Req was made | /
+31.7.2024, 21:33:35 - INFO - Req was made | /
+31.7.2024, 21:33:35 - INFO - Req was made | /
+31.7.2024, 21:33:35 - INFO - Req was made | /
+31.7.2024, 21:33:35 - INFO - Req was made | /
+31.7.2024, 21:33:35 - INFO - Req was made | /
+31.7.2024, 21:33:36 - INFO - Req was made | /
+31.7.2024, 21:33:36 - INFO - Req was made | /
+31.7.2024, 21:33:36 - INFO - Req was made | /
+31.7.2024, 21:33:36 - INFO - Req was made | /
+31.7.2024, 21:34:45 - INFO - Req was made | /
+31.7.2024, 21:34:45 - INFO - Req was made | /
+31.7.2024, 21:34:46 - INFO - Req was made | /
+31.7.2024, 21:34:46 - INFO - Req was made | /
+31.7.2024, 21:34:59 - INFO - server.js loaded...
+31.7.2024, 21:34:59 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:35:12 - INFO - server.js loaded...
+31.7.2024, 21:35:12 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:35:13 - INFO - Req was made | /
+31.7.2024, 21:35:14 - INFO - Req was made | /
+31.7.2024, 21:35:14 - INFO - Req was made | /
+31.7.2024, 21:35:14 - INFO - Req was made | /
+31.7.2024, 21:35:14 - INFO - Req was made | /
+31.7.2024, 21:35:14 - INFO - Req was made | /
+31.7.2024, 21:36:02 - INFO - server.js loaded...
+31.7.2024, 21:36:02 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:36:04 - INFO - Req was made | /
+31.7.2024, 21:36:05 - INFO - Req was made | /
+31.7.2024, 21:36:05 - INFO - Req was made | /
+31.7.2024, 21:36:54 - INFO - server.js loaded...
+31.7.2024, 21:36:54 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:37:06 - INFO - Req was made | /
+31.7.2024, 21:37:06 - INFO - Req was made | /
+31.7.2024, 21:37:06 - INFO - Req was made | /
+31.7.2024, 21:37:07 - INFO - Req was made | /
+31.7.2024, 21:37:07 - INFO - Req was made | /
+31.7.2024, 21:37:07 - INFO - Req was made | /
+31.7.2024, 21:37:07 - INFO - Req was made | /
+31.7.2024, 21:37:07 - INFO - Req was made | /
+31.7.2024, 21:37:07 - INFO - Req was made | /
+31.7.2024, 21:37:08 - INFO - Req was made | /
+31.7.2024, 21:37:08 - INFO - Req was made | /
+31.7.2024, 21:37:08 - INFO - Req was made | /
+31.7.2024, 21:37:08 - INFO - Req was made | /
+31.7.2024, 21:39:02 - INFO - Req was made | /
+31.7.2024, 21:39:06 - INFO - Req was made | /
+31.7.2024, 21:39:09 - INFO - Req was made | /
+31.7.2024, 21:39:13 - INFO - Req was made | /
+31.7.2024, 21:39:16 - INFO - Req was made | /
+31.7.2024, 21:39:37 - INFO - Req was made | /
+31.7.2024, 21:39:57 - INFO - Req was made | /
+31.7.2024, 21:42:29 - INFO - server.js loaded...
+31.7.2024, 21:42:29 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:43:04 - INFO - Req was made | /
+31.7.2024, 21:47:18 - INFO - server.js loaded...
+31.7.2024, 21:47:18 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:48:16 - INFO - server.js loaded...
+31.7.2024, 21:48:16 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:48:21 - INFO - Req was made | /
+31.7.2024, 21:48:21 - INFO - Req was made | /
+31.7.2024, 21:48:22 - INFO - Req was made | /
+31.7.2024, 21:48:22 - INFO - Req was made | /
+31.7.2024, 21:48:22 - INFO - Req was made | /
+31.7.2024, 21:48:29 - INFO - server.js loaded...
+31.7.2024, 21:48:29 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:48:30 - INFO - server.js loaded...
+31.7.2024, 21:48:30 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:48:32 - INFO - Req was made | /
+31.7.2024, 21:48:32 - INFO - Req was made | /
+31.7.2024, 21:48:33 - INFO - Req was made | /
+31.7.2024, 21:48:33 - INFO - Req was made | /
+31.7.2024, 21:48:33 - INFO - Req was made | /
+31.7.2024, 21:48:33 - INFO - Req was made | /
+31.7.2024, 21:48:33 - INFO - Req was made | /
+31.7.2024, 21:48:33 - INFO - Req was made | /
+31.7.2024, 21:48:33 - INFO - Req was made | /
+31.7.2024, 21:48:34 - INFO - Req was made | /
+31.7.2024, 21:48:34 - INFO - Req was made | /
+31.7.2024, 21:48:50 - INFO - server.js loaded...
+31.7.2024, 21:48:50 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:48:54 - INFO - Req was made | /
+31.7.2024, 21:48:54 - INFO - Req was made | /
+31.7.2024, 21:48:55 - INFO - Req was made | /
+31.7.2024, 21:48:55 - INFO - Req was made | /
+31.7.2024, 21:48:55 - INFO - Req was made | /
+31.7.2024, 21:48:55 - INFO - Req was made | /
+31.7.2024, 21:48:55 - INFO - Req was made | /
+31.7.2024, 21:48:55 - INFO - Req was made | /
+31.7.2024, 21:48:56 - INFO - Req was made | /
+31.7.2024, 21:48:56 - INFO - Req was made | /
+31.7.2024, 21:48:56 - INFO - Req was made | /
+31.7.2024, 21:49:20 - INFO - server.js loaded...
+31.7.2024, 21:49:20 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:49:21 - INFO - Req was made | /
+31.7.2024, 21:49:21 - INFO - Req was made | /
+31.7.2024, 21:49:21 - INFO - Req was made | /
+31.7.2024, 21:49:21 - INFO - Req was made | /
+31.7.2024, 21:49:22 - INFO - Req was made | /
+31.7.2024, 21:49:22 - INFO - Req was made | /
+31.7.2024, 21:49:22 - INFO - Req was made | /
+31.7.2024, 21:49:24 - INFO - Req was made | /
+31.7.2024, 21:49:24 - INFO - Req was made | /
+31.7.2024, 21:49:25 - INFO - Req was made | /
+31.7.2024, 21:49:25 - INFO - Req was made | /
+31.7.2024, 21:49:25 - INFO - Req was made | /
+31.7.2024, 21:49:25 - INFO - Req was made | /
+31.7.2024, 21:49:25 - INFO - Req was made | /
+31.7.2024, 21:49:25 - INFO - Req was made | /
+31.7.2024, 21:49:26 - INFO - Req was made | /
+31.7.2024, 21:49:26 - INFO - Req was made | /
+31.7.2024, 21:49:26 - INFO - Req was made | /
+31.7.2024, 21:49:28 - INFO - Req was made | /
+31.7.2024, 21:49:28 - INFO - Req was made | /
+31.7.2024, 21:49:29 - INFO - Req was made | /
+31.7.2024, 21:49:29 - INFO - Req was made | /
+31.7.2024, 21:49:29 - INFO - Req was made | /
+31.7.2024, 21:49:29 - INFO - Req was made | /
+31.7.2024, 21:49:29 - INFO - Req was made | /
+31.7.2024, 21:49:29 - INFO - Req was made | /
+31.7.2024, 21:49:30 - INFO - Req was made | /
+31.7.2024, 21:49:30 - INFO - Req was made | /
+31.7.2024, 21:49:30 - INFO - Req was made | /
+31.7.2024, 21:49:30 - INFO - Req was made | /
+31.7.2024, 21:49:30 - INFO - Req was made | /
+31.7.2024, 21:49:31 - INFO - Req was made | /
+31.7.2024, 21:49:31 - INFO - Req was made | /
+31.7.2024, 21:49:31 - INFO - Req was made | /
+31.7.2024, 21:49:31 - INFO - Req was made | /
+31.7.2024, 21:50:20 - INFO - Req was made | /
+31.7.2024, 21:50:36 - INFO - server.js loaded...
+31.7.2024, 21:50:36 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:55:26 - INFO - server.js loaded...
+31.7.2024, 21:55:26 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:55:30 - INFO - server.js loaded...
+31.7.2024, 21:55:30 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 21:58:28 - INFO - Req was made | /
+31.7.2024, 21:58:34 - INFO - Req was made | /
+31.7.2024, 21:58:48 - INFO - Req was made | /
+31.7.2024, 21:58:51 - INFO - Req was made | /
+31.7.2024, 22:01:47 - INFO - server.js loaded...
+31.7.2024, 22:01:47 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 22:01:53 - INFO - Req was made | /
+31.7.2024, 22:01:54 - INFO - Req was made | /
+31.7.2024, 22:04:07 - INFO - server.js loaded...
+31.7.2024, 22:04:07 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 22:04:36 - INFO - Req was made | /
+31.7.2024, 22:05:25 - DEBUG - auth.service - login with username: uri123
+31.7.2024, 22:05:25 - ERROR - Failed to Login Error: Invalid username or password
+31.7.2024, 22:05:38 - DEBUG - auth.service - login with username: uri123
+31.7.2024, 22:05:38 - ERROR - Failed to Login Error: Invalid username or password
+31.7.2024, 22:05:39 - DEBUG - auth.service - login with username: uri123
+31.7.2024, 22:05:39 - ERROR - Failed to Login Error: Invalid username or password
+31.7.2024, 22:05:52 - DEBUG - auth.service - login with username: uri123
+31.7.2024, 22:05:52 - ERROR - Failed to Login Error: Invalid username or password
+31.7.2024, 22:06:19 - DEBUG - auth.service - login with username: uri123
+31.7.2024, 22:06:19 - ERROR - Failed to Login Error: Invalid username or password
+31.7.2024, 22:13:26 - ERROR - Failed to get users | TypeError: user._id.getTimestamp is not a function
+31.7.2024, 22:13:26 - ERROR - cannot find users | TypeError: user._id.getTimestamp is not a function
+31.7.2024, 22:25:46 - INFO - server.js loaded...
+31.7.2024, 22:25:46 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 22:25:58 - DEBUG - auth.service - signup with username: uri123, fullname: uri raz
+31.7.2024, 22:25:59 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$uF6szuRJ.5mnL4eC6zAHdO9j8EvjDZ.QsJ0TGeLy0.lPQ0zkIV.1.","fullname":"uri raz","_id":"66aa8fc7084e4f61f3e15897"}
+31.7.2024, 22:25:59 - DEBUG - auth.service - login with username: uri123
+31.7.2024, 22:26:08 - DEBUG - auth.service - login with username: uri123
+31.7.2024, 22:26:09 - INFO - User login:  | {"_id":"66aa8fc7084e4f61f3e15897","username":"uri123","fullname":"uri raz"}
+31.7.2024, 22:27:32 - INFO - Req was made | /
+31.7.2024, 22:27:54 - ERROR - cannot remove toy t104 | BSONError: hex string must be 24 characters
+31.7.2024, 22:27:54 - ERROR - Failed to remove toy | BSONError: hex string must be 24 characters
+31.7.2024, 22:29:39 - ERROR - cannot update toy undefined | BSONError: hex string must be 24 characters
+31.7.2024, 22:29:39 - ERROR - Failed to update toy | BSONError: hex string must be 24 characters
+31.7.2024, 22:29:56 - INFO - Req was made | /
+31.7.2024, 22:30:10 - ERROR - cannot update toy undefined | BSONError: hex string must be 24 characters
+31.7.2024, 22:30:10 - ERROR - Failed to update toy | BSONError: hex string must be 24 characters
+31.7.2024, 22:30:31 - ERROR - cannot update toy undefined | BSONError: hex string must be 24 characters
+31.7.2024, 22:30:31 - ERROR - Failed to update toy | BSONError: hex string must be 24 characters
+31.7.2024, 22:31:28 - ERROR - cannot update toy undefined | BSONError: hex string must be 24 characters
+31.7.2024, 22:31:28 - ERROR - Failed to update toy | BSONError: hex string must be 24 characters
+31.7.2024, 22:49:23 - INFO - Req was made | /
+31.7.2024, 22:49:57 - ERROR - cannot update toy undefined | BSONError: hex string must be 24 characters
+31.7.2024, 22:49:57 - ERROR - Failed to update toy | BSONError: hex string must be 24 characters
+31.7.2024, 22:51:09 - ERROR - Failed to update toy | BSONError: hex string must be 24 characters
+31.7.2024, 22:51:09 - ERROR - cannot update toy undefined | BSONError: hex string must be 24 characters
+3.8.2024, 15:30:57 - INFO - server.js loaded...
+3.8.2024, 15:30:57 - INFO - Server listening on port http://127.0.0.1:3030/
+3.8.2024, 15:34:04 - DEBUG - auth.service - login with username: uri123
+3.8.2024, 15:34:05 - INFO - User login:  | {"_id":"66aa8fc7084e4f61f3e15897","username":"uri123","fullname":"uri raz","isAdmin":"true"}
+3.8.2024, 15:40:57 - INFO - server.js loaded...
+3.8.2024, 15:40:57 - INFO - Server listening on port http://127.0.0.1:3030/
+3.8.2024, 15:41:44 - INFO - server.js loaded...
+3.8.2024, 15:41:44 - INFO - Server listening on port http://127.0.0.1:3030/
+3.8.2024, 15:43:25 - DEBUG - auth.service - signup with username: muki, fullname: puki muki
+3.8.2024, 15:43:25 - DEBUG - auth.route - new account created: {"username":"muki","password":"$2b$10$n.PEBO5ZPWcidaDHJe8HqOdiS807z5IT46vG3b2jwroyyWcuZcCzy","fullname":"puki muki","_id":"66ae25ed55d1d05f30cd8d73"}
+3.8.2024, 15:43:25 - DEBUG - auth.service - login with username: muki
+3.8.2024, 15:43:42 - DEBUG - auth.service - login with username: muki
+3.8.2024, 15:43:42 - INFO - User login:  | {"_id":"66ae25ed55d1d05f30cd8d73","username":"muki","fullname":"puki muki"}
+3.8.2024, 15:44:02 - INFO - Req was made | /
+3.8.2024, 15:44:19 - WARN - puki mukiattempted to perform admin action
+3.8.2024, 20:19:21 - WARN - puki mukiattempted to perform admin action
+3.8.2024, 20:43:37 - DEBUG - auth.service - login with username: uri123
+3.8.2024, 20:43:38 - INFO - User login:  | {"_id":"66aa8fc7084e4f61f3e15897","username":"uri123","fullname":"uri raz","isAdmin":"true"}
+3.8.2024, 20:43:39 - INFO - Req was made | /
+3.8.2024, 20:44:04 - INFO - Req was made | /
+3.8.2024, 20:44:10 - INFO - Req was made | /
+3.8.2024, 20:44:10 - INFO - Req was made | /
+3.8.2024, 20:44:19 - INFO - Req was made | /
+3.8.2024, 20:44:28 - DEBUG - auth.service - login with username: puki
+3.8.2024, 20:44:28 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 20:44:41 - DEBUG - auth.service - login with username: muki
+3.8.2024, 20:44:41 - INFO - User login:  | {"_id":"66ae25ed55d1d05f30cd8d73","username":"muki","fullname":"puki muki"}
+3.8.2024, 20:44:45 - INFO - Req was made | /
+3.8.2024, 20:44:45 - INFO - Req was made | /
+3.8.2024, 20:44:49 - WARN - puki mukiattempted to perform admin action
+3.8.2024, 20:44:54 - WARN - puki mukiattempted to perform admin action
+3.8.2024, 20:44:58 - WARN - puki mukiattempted to perform admin action
+3.8.2024, 20:53:41 - INFO - Req was made | /
+3.8.2024, 20:53:41 - INFO - Req was made | /
+3.8.2024, 20:55:02 - DEBUG - auth.service - signup with username: ziki , fullname: popop
+3.8.2024, 20:55:02 - DEBUG - auth.route - new account created: {"username":"ziki ","password":"$2b$10$dBpTPfselO/KtAR4PCNxo.WkwJRwcGwk2qBD9yTgp9lsqcWcWyday","fullname":"popop","_id":"66ae6ef655d1d05f30cd8d74"}
+3.8.2024, 20:55:02 - DEBUG - auth.service - login with username: ziki 
+3.8.2024, 20:56:02 - INFO - Req was made | /
+3.8.2024, 20:56:02 - INFO - Req was made | /
+3.8.2024, 20:59:19 - INFO - Req was made | /
+3.8.2024, 20:59:19 - INFO - Req was made | /
+3.8.2024, 21:07:42 - INFO - Req was made | /
+3.8.2024, 21:07:42 - INFO - Req was made | /
+3.8.2024, 21:09:19 - INFO - Req was made | /
+3.8.2024, 21:09:27 - INFO - Req was made | /
+3.8.2024, 21:09:31 - INFO - Req was made | /
+3.8.2024, 21:09:46 - INFO - Req was made | /
+3.8.2024, 21:09:55 - INFO - Req was made | /
+3.8.2024, 21:14:28 - DEBUG - auth.service - login with username: muki
+3.8.2024, 21:14:28 - INFO - User login:  | {"_id":"66ae25ed55d1d05f30cd8d73","username":"muki","fullname":"puki muki"}
+3.8.2024, 21:15:50 - DEBUG - auth.service - signup with username: pp, fullname: pp
+3.8.2024, 21:15:50 - DEBUG - auth.route - new account created: {"username":"pp","password":"$2b$10$BahLbwD2E/jtoIBF1311YO1HEmlj0m33ovkNC9il0OuL1ckIKgWsW","fullname":"pp","_id":"66ae73d655d1d05f30cd8d75"}
+3.8.2024, 21:15:50 - DEBUG - auth.service - login with username: pp
+3.8.2024, 21:16:10 - INFO - Req was made | /
+3.8.2024, 21:16:11 - INFO - Req was made | /
+3.8.2024, 21:16:12 - INFO - Req was made | /
+3.8.2024, 21:16:13 - INFO - Req was made | /
+3.8.2024, 21:16:17 - INFO - Req was made | /
+3.8.2024, 21:16:17 - INFO - Req was made | /
+3.8.2024, 21:16:55 - INFO - Req was made | /
+3.8.2024, 21:17:01 - DEBUG - auth.service - login with username: pp
+3.8.2024, 21:17:01 - INFO - User login:  | {"_id":"66ae73d655d1d05f30cd8d75","username":"pp","fullname":"pp"}
+3.8.2024, 21:19:07 - INFO - Req was made | /
+3.8.2024, 21:19:07 - INFO - Req was made | /
+3.8.2024, 21:19:25 - INFO - Req was made | /
+3.8.2024, 21:19:25 - INFO - Req was made | /
+3.8.2024, 21:20:32 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:32 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:33 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:33 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:34 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:34 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:34 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:34 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:35 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:35 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:35 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:35 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:36 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:36 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:36 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:36 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:37 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:37 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:38 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:38 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:38 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:38 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:39 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:39 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:39 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:39 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:40 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:40 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:41 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:41 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:41 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:41 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:41 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:41 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:42 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:42 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:42 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:42 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:43 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:43 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:43 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:43 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:44 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:44 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:45 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:45 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:45 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:45 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:45 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:45 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:46 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:46 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:46 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:46 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:47 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:47 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:47 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:47 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:48 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:48 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:48 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:48 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:49 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:49 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:49 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:49 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:50 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:50 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:51 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:51 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:51 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:51 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:20:52 - DEBUG - auth.service - login with username: undefined
+3.8.2024, 21:20:52 - ERROR - Failed to Login Error: Invalid username or password
+3.8.2024, 21:21:23 - DEBUG - auth.service - login with username: uri123
+3.8.2024, 21:21:24 - INFO - User login:  | {"_id":"66aa8fc7084e4f61f3e15897","username":"uri123","fullname":"uri raz","isAdmin":"true"}
+3.8.2024, 21:24:42 - INFO - Req was made | /
+3.8.2024, 21:24:42 - INFO - Req was made | /
+3.8.2024, 21:24:44 - INFO - Req was made | /
+3.8.2024, 21:24:44 - INFO - Req was made | /
+3.8.2024, 21:25:35 - INFO - Req was made | /
+3.8.2024, 21:25:36 - INFO - Req was made | /
+3.8.2024, 21:25:37 - INFO - Req was made | /
+3.8.2024, 21:25:37 - INFO - Req was made | /
+3.8.2024, 21:25:38 - INFO - Req was made | /
+3.8.2024, 21:25:38 - INFO - Req was made | /
+3.8.2024, 21:25:39 - INFO - Req was made | /
+3.8.2024, 21:25:39 - INFO - Req was made | /
+3.8.2024, 21:25:44 - DEBUG - auth.service - login with username: uri123
+3.8.2024, 21:25:44 - INFO - User login:  | {"_id":"66aa8fc7084e4f61f3e15897","username":"uri123","fullname":"uri raz","isAdmin":"true"}
+3.8.2024, 21:25:46 - INFO - Req was made | /
+3.8.2024, 21:25:46 - INFO - Req was made | /
+3.8.2024, 21:25:47 - INFO - Req was made | /
+3.8.2024, 21:25:47 - INFO - Req was made | /
+3.8.2024, 21:25:48 - INFO - Req was made | /
+3.8.2024, 21:25:48 - INFO - Req was made | /
+3.8.2024, 21:25:49 - INFO - Req was made | /
+3.8.2024, 21:25:49 - INFO - Req was made | /
+3.8.2024, 21:25:50 - INFO - Req was made | /
+3.8.2024, 21:25:50 - INFO - Req was made | /
+3.8.2024, 21:25:59 - INFO - Req was made | /
+3.8.2024, 21:25:59 - INFO - Req was made | /
+3.8.2024, 21:26:02 - INFO - Req was made | /
+3.8.2024, 21:26:03 - INFO - Req was made | /
+3.8.2024, 21:26:07 - DEBUG - auth.service - login with username: uri123
+3.8.2024, 21:26:08 - INFO - User login:  | {"_id":"66aa8fc7084e4f61f3e15897","username":"uri123","fullname":"uri raz","isAdmin":"true"}
+3.8.2024, 21:26:09 - INFO - Req was made | /
+3.8.2024, 21:26:09 - INFO - Req was made | /
+3.8.2024, 21:26:10 - INFO - Req was made | /
+3.8.2024, 21:26:10 - INFO - Req was made | /
+3.8.2024, 21:26:17 - INFO - Req was made | /
+3.8.2024, 21:26:17 - INFO - Req was made | /
+3.8.2024, 21:27:43 - INFO - Req was made | /
+3.8.2024, 21:27:43 - INFO - Req was made | /
+3.8.2024, 21:27:49 - INFO - Req was made | /
+3.8.2024, 21:27:49 - INFO - Req was made | /
+3.8.2024, 21:28:11 - INFO - Req was made | /
+3.8.2024, 21:28:11 - INFO - Req was made | /
+3.8.2024, 21:29:03 - INFO - Req was made | /
+3.8.2024, 21:29:03 - INFO - Req was made | /
+3.8.2024, 21:29:33 - INFO - Req was made | /
+3.8.2024, 21:29:34 - INFO - Req was made | /
+3.8.2024, 21:29:34 - INFO - Req was made | /
+3.8.2024, 21:36:57 - INFO - Req was made | /
