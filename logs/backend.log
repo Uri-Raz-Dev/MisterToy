@@ -186,4 +186,3 @@
 30.7.2024, 21:21:07 - INFO - user checklogin: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
 30.7.2024, 21:22:11 - INFO - user checklogin: | {"_id":"znk5j","fullname":"ddd"}
 30.7.2024, 21:22:18 - INFO - user checklogin: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
-3.8.2024, 21:40:54 - INFO - Server listening on port http://127.0.0.1:3030/
