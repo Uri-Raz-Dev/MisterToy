@@ -2,7 +2,7 @@ import Cryptr from 'cryptr'
 import bcrypt from 'bcrypt'
 
 import { userService } from '../user/user.service.js'
-import { loggerService } from '../../public/services/logger.service.js'
+import { loggerService } from '../../services/logger.service.js'
 
 export const authService = {
     signup,
@@ -23,18 +23,24 @@ async function login(username, password) {
     if (!match) throw new Error('Invalid username or password')
 
     delete user.password
+    user._id = user._id.toString()
+
     return user
 }
 
-async function signup(username, password, fullname) {
+async function signup({ username, password, fullname, imgUrl, isAdmin }) {
     const saltRounds = 10
 
     loggerService.debug(`auth.service - signup with username: ${username}, fullname: ${fullname}`)
-    if (!username || !password || !fullname) throw new Error('Missing details')
+    if (!username || !password || !fullname) return Promise.reject('Missing required signup information')
+
+    const userExist = await userService.getByUsername(username)
+    if (userExist) return Promise.reject('Username already taken')
 
     const hash = await bcrypt.hash(password, saltRounds)
-    return userService.add({ username, password: hash, fullname })
+    return userService.add({ username, password: hash, fullname, imgUrl, isAdmin })
 }
+
 
 function getLoginToken(user) {
     const userInfo = { _id: user._id, fullname: user.fullname, isAdmin: user.isAdmin }
@@ -44,6 +50,7 @@ function getLoginToken(user) {
 function validateToken(loginToken) {
     try {
         const json = cryptr.decrypt(loginToken)
+        console.log('Decrypted token JSON:', json)
         const loggedinUser = JSON.parse(json)
         return loggedinUser
     } catch (err) {

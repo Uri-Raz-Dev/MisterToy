@@ -186,3 +186,744 @@
 30.7.2024, 21:21:07 - INFO - user checklogin: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
 30.7.2024, 21:22:11 - INFO - user checklogin: | {"_id":"znk5j","fullname":"ddd"}
 30.7.2024, 21:22:18 - INFO - user checklogin: | {"_id":"0Ks1h","fullname":"uri raz","isAdmin":"true"}
+3.8.2024, 21:43:16 - INFO - Req was made | /
+3.8.2024, 21:43:19 - INFO - Req was made | /
+3.8.2024, 21:43:19 - INFO - Req was made | /
+3.8.2024, 21:43:23 - INFO - Req was made | /
+3.8.2024, 21:51:09 - INFO - server.js loaded...
+3.8.2024, 21:51:09 - INFO - Server listening on port http://127.0.0.1:3030/
+3.8.2024, 21:51:26 - INFO - server.js loaded...
+3.8.2024, 21:51:26 - INFO - Server listening on port http://127.0.0.1:3030/
+3.8.2024, 21:52:26 - INFO - server.js loaded...
+3.8.2024, 21:52:26 - INFO - Server listening on port http://127.0.0.1:3030/
+3.8.2024, 21:52:53 - INFO - server.js loaded...
+3.8.2024, 21:52:53 - INFO - Server listening on port http://127.0.0.1:3030/
+3.8.2024, 21:53:01 - INFO - server.js loaded...
+3.8.2024, 21:53:01 - INFO - Server listening on port http://127.0.0.1:3030/
+3.8.2024, 21:53:15 - INFO - server.js loaded...
+3.8.2024, 21:53:15 - INFO - Server listening on port http://127.0.0.1:3030/
+3.8.2024, 21:53:16 - INFO - server.js loaded...
+3.8.2024, 21:53:16 - INFO - Server listening on port http://127.0.0.1:3030/
+3.8.2024, 21:53:21 - INFO - server.js loaded...
+3.8.2024, 21:53:21 - INFO - Server listening on port http://127.0.0.1:3030/
+3.8.2024, 21:53:53 - INFO - server.js loaded...
+3.8.2024, 21:53:53 - INFO - Server listening on port http://127.0.0.1:3030/
+3.8.2024, 22:16:40 - INFO - Req was made | /
+3.8.2024, 22:16:40 - INFO - Req was made | /
+3.8.2024, 22:16:41 - INFO - Req was made | /
+3.8.2024, 22:16:41 - INFO - Req was made | /
+3.8.2024, 22:37:07 - INFO - Server listening on port http://127.0.0.1:3030/
+3.8.2024, 22:37:07 - INFO - server.js loaded...
+3.8.2024, 22:38:58 - INFO - server.js loaded...
+3.8.2024, 22:38:58 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 18:03:28 - INFO - server.js loaded...
+6.8.2024, 18:03:29 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 18:41:04 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 18:41:04 - INFO - User login:  | {"_id":"66aa8fc7084e4f61f3e15897","username":"uri123","fullname":"uri raz","isAdmin":"true"}
+6.8.2024, 18:41:04 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 18:41:05 - INFO - User login:  | {"_id":"66aa8fc7084e4f61f3e15897","username":"uri123","fullname":"uri raz","isAdmin":"true"}
+6.8.2024, 18:41:06 - INFO - Req was made | /
+6.8.2024, 18:41:06 - INFO - Req was made | /
+6.8.2024, 19:36:11 - INFO - server.js loaded...
+6.8.2024, 19:36:11 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 19:36:21 - INFO - server.js loaded...
+6.8.2024, 19:36:21 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 19:39:34 - INFO - server.js loaded...
+6.8.2024, 19:39:34 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 19:58:06 - INFO - server.js loaded...
+6.8.2024, 19:58:06 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 19:58:27 - INFO - server.js loaded...
+6.8.2024, 19:58:27 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 19:58:33 - INFO - server.js loaded...
+6.8.2024, 19:58:33 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 19:58:40 - INFO - server.js loaded...
+6.8.2024, 19:58:40 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 20:02:27 - INFO - server.js loaded...
+6.8.2024, 20:02:27 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 20:02:45 - INFO - server.js loaded...
+6.8.2024, 20:02:45 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 20:04:59 - INFO - server.js loaded...
+6.8.2024, 20:04:59 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 20:05:17 - INFO - server.js loaded...
+6.8.2024, 20:05:17 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 20:06:11 - INFO - server.js loaded...
+6.8.2024, 20:06:11 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 20:06:14 - INFO - server.js loaded...
+6.8.2024, 20:06:14 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 20:06:56 - INFO - server.js loaded...
+6.8.2024, 20:06:57 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 20:08:10 - INFO - server.js loaded...
+6.8.2024, 20:08:10 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 20:47:28 - INFO - server.js loaded...
+6.8.2024, 20:47:28 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 20:47:29 - INFO - Req was made | /
+6.8.2024, 20:49:15 - INFO - Req was made | /
+6.8.2024, 21:22:31 - INFO - server.js loaded...
+6.8.2024, 21:22:31 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 21:22:59 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 21:22:59 - INFO - server.js loaded...
+6.8.2024, 21:24:10 - INFO - server.js loaded...
+6.8.2024, 21:24:10 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 21:25:07 - INFO - server.js loaded...
+6.8.2024, 21:25:07 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 21:26:49 - INFO - server.js loaded...
+6.8.2024, 21:26:49 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 21:30:33 - INFO - server.js loaded...
+6.8.2024, 21:30:33 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 21:31:25 - INFO - Req was made | /
+6.8.2024, 21:31:25 - INFO - Req was made | /
+6.8.2024, 21:33:27 - INFO - server.js loaded...
+6.8.2024, 21:33:27 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 21:56:15 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 21:56:15 - INFO - server.js loaded...
+6.8.2024, 22:07:08 - INFO - server.js loaded...
+6.8.2024, 22:07:08 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:08:54 - INFO - server.js loaded...
+6.8.2024, 22:08:54 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:24:51 - DEBUG - auth.service - login with username: muki
+6.8.2024, 22:24:51 - ERROR - Failed to Login Error: Invalid username or password
+6.8.2024, 22:25:21 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 22:25:21 - ERROR - Failed to Login Error: Invalid username or password
+6.8.2024, 22:26:58 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 22:26:58 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$VrAF.EOR3/rqLU6ok2BYmuPrV3YImbgK1a29rvo8y1IX.bjrf/bj2","fullname":"Uri Raz","_id":"66b27902165e7026805d4b15"}
+6.8.2024, 22:26:58 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 22:27:34 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 22:27:34 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$qJfXV3TCDHr8xX0xfJ.SNeJIdI5HPIMp7mQ0uWSugQmO7ApXqxqDK","fullname":"Uri Raz","_id":"66b27926165e7026805d4b16"}
+6.8.2024, 22:27:34 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 22:28:32 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 22:28:32 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$gYKOuFme7X2ikpyK23CUqug81BSAm8NlMWs7FwiXFrQ8dAooKBY7S","fullname":"Uri Raz","_id":"66b27960165e7026805d4b17"}
+6.8.2024, 22:28:32 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 22:29:40 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 22:29:40 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$iE8FHo8gs13j7Ok66zQGT.81Ca8LszDmopOAQWhVtI73xDHZQCSt.","fullname":"Uri Raz","_id":"66b279a4165e7026805d4b18"}
+6.8.2024, 22:29:40 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 22:30:00 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 22:30:00 - ERROR - cannot insert user | Error: Username taken
+6.8.2024, 22:30:00 - ERROR - Failed to signup Error: Username taken
+6.8.2024, 22:39:52 - INFO - server.js loaded...
+6.8.2024, 22:39:52 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:40:06 - ERROR - Failed to signup ReferenceError: logger is not defined
+6.8.2024, 22:40:35 - INFO - server.js loaded...
+6.8.2024, 22:40:35 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:40:39 - ERROR - Failed to signup Missing required signup information
+6.8.2024, 22:40:39 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+6.8.2024, 22:42:06 - INFO - server.js loaded...
+6.8.2024, 22:42:06 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:42:10 - INFO - server.js loaded...
+6.8.2024, 22:42:10 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:42:13 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+6.8.2024, 22:42:13 - ERROR - Failed to signup Missing required signup information
+6.8.2024, 22:42:42 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+6.8.2024, 22:42:42 - ERROR - Failed to signup Missing required signup information
+6.8.2024, 22:42:50 - INFO - server.js loaded...
+6.8.2024, 22:42:50 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:43:23 - INFO - server.js loaded...
+6.8.2024, 22:43:23 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:43:25 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+6.8.2024, 22:43:25 - ERROR - Failed to signup Missing required signup information
+6.8.2024, 22:43:51 - INFO - server.js loaded...
+6.8.2024, 22:43:51 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:44:39 - INFO - server.js loaded...
+6.8.2024, 22:44:39 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:45:19 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+6.8.2024, 22:45:19 - ERROR - Failed to signup Missing required signup information
+6.8.2024, 22:45:49 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+6.8.2024, 22:45:49 - ERROR - Failed to signup Missing required signup information
+6.8.2024, 22:45:51 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+6.8.2024, 22:45:51 - ERROR - Failed to signup Missing required signup information
+6.8.2024, 22:45:52 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+6.8.2024, 22:45:52 - ERROR - Failed to signup Missing required signup information
+6.8.2024, 22:45:52 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+6.8.2024, 22:45:52 - ERROR - Failed to signup Missing required signup information
+6.8.2024, 22:45:53 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+6.8.2024, 22:45:53 - ERROR - Failed to signup Missing required signup information
+6.8.2024, 22:45:54 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+6.8.2024, 22:45:54 - ERROR - Failed to signup Missing required signup information
+6.8.2024, 22:49:07 - INFO - server.js loaded...
+6.8.2024, 22:49:07 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:49:30 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+6.8.2024, 22:49:30 - ERROR - Failed to signup Missing required signup information
+6.8.2024, 22:51:43 - INFO - server.js loaded...
+6.8.2024, 22:51:43 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:51:46 - ERROR - Failed to signup ReferenceError: logger is not defined
+6.8.2024, 22:51:49 - ERROR - Failed to signup ReferenceError: logger is not defined
+6.8.2024, 22:52:01 - INFO - server.js loaded...
+6.8.2024, 22:52:01 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:52:04 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 22:52:05 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$VK3ArPWQQ1PjIaUQR8uR9unG4tuqtBgiH.RfbFemHvHcOscvP3o.6","fullname":"Uri Raz","imgUrl":null,"_id":"66b27ee5d852cfeb1dd39ea3"}
+6.8.2024, 22:52:05 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 22:52:11 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 22:52:11 - ERROR - Failed to signup Username already taken
+6.8.2024, 22:52:36 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 22:52:36 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$q4muoLLRoxFlMFRtJ.wJxeQ7g3LxmORP69fD3pp91gbB4ByByNK3.","fullname":"Uri Raz","imgUrl":null,"_id":"66b27f04d852cfeb1dd39ea4"}
+6.8.2024, 22:52:36 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 22:54:59 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 22:54:59 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$52h4aDovTw4aBQuyKEzb6OzIQHSeMgCKZa6TQX6kkQSK4bbfgN3qu","fullname":"Uri Raz","imgUrl":null,"_id":"66b27f93d852cfeb1dd39ea5"}
+6.8.2024, 22:54:59 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 22:57:25 - INFO - server.js loaded...
+6.8.2024, 22:57:25 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:57:32 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+6.8.2024, 22:57:32 - ERROR - Failed to signup Missing required signup information
+6.8.2024, 22:57:40 - INFO - server.js loaded...
+6.8.2024, 22:57:40 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 22:57:42 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 22:57:42 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$hTD12KQmxMDEiNKaynVKX.mdU/I5SW5LF/XpXdIKCqnlSa3IshHPK","fullname":"Uri Raz","imgUrl":null,"_id":"66b280362d05403dbcae9f21"}
+6.8.2024, 22:57:42 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 22:59:52 - INFO - server.js loaded...
+6.8.2024, 22:59:52 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:00:09 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 23:00:09 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$1mG8sgh7FoEbucGeoP0jue5VT35no5z98/nTXnc7sAZjoJTkM/4fu","fullname":"Uri Raz","imgUrl":null,"isAdmin":false,"_id":"66b280c9fa16f588fdafa57d"}
+6.8.2024, 23:00:09 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 23:00:44 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 23:00:44 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$Z7SuyVm8QL4EXvcbQcMaz.Jka1G54oD0s.C3eRKVvcBS//FxAqLuK","fullname":"Uri Raz","imgUrl":null,"isAdmin":false,"_id":"66b280ecfa16f588fdafa57e"}
+6.8.2024, 23:00:44 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 23:01:54 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 23:01:54 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$dMXOV0log2qG/TxoB5M8U.m1kbgcQB5EuYA4soOc1Jkjo9GzTQgAO","fullname":"Uri Raz","imgUrl":null,"isAdmin":false,"_id":"66b28132fa16f588fdafa57f"}
+6.8.2024, 23:01:54 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 23:03:03 - INFO - server.js loaded...
+6.8.2024, 23:03:03 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:03:08 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 23:03:08 - DEBUG - auth.service - isAdmin after conversion: false
+6.8.2024, 23:03:08 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$mAo/2OZSpWpkWnURZk7spuFmbLnWwK2KQ0hWOVOOuZ10fGCj58bk6","fullname":"Uri Raz","imgUrl":null,"isAdmin":false,"_id":"66b2817c14729c06273dc283"}
+6.8.2024, 23:03:08 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 23:04:44 - INFO - server.js loaded...
+6.8.2024, 23:04:44 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:04:58 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 23:04:58 - DEBUG - auth.service - isAdmin after conversion: undefined
+6.8.2024, 23:04:58 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$dW9pekydUeNxeTiB4QBpM.mb4PpomUhCi31o/uuuVNnoeI/EZ6pz2","fullname":"Uri Raz","imgUrl":null,"_id":"66b281ead6dab698a2be4601"}
+6.8.2024, 23:04:58 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 23:05:18 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 23:05:18 - DEBUG - auth.service - isAdmin after conversion: undefined
+6.8.2024, 23:05:18 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$12Wy5gfK9HR2VIwwsGb2gevaEUgSDj7y38Kaf0LH0IdNUB.MdT68W","fullname":"Uri Raz","imgUrl":null,"_id":"66b281fed6dab698a2be4602"}
+6.8.2024, 23:05:18 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 23:05:50 - INFO - server.js loaded...
+6.8.2024, 23:05:50 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:06:02 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+6.8.2024, 23:06:02 - ERROR - Failed to signup Missing required signup information
+6.8.2024, 23:06:08 - INFO - server.js loaded...
+6.8.2024, 23:06:08 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:07:24 - INFO - server.js loaded...
+6.8.2024, 23:07:24 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:08:08 - INFO - server.js loaded...
+6.8.2024, 23:08:08 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:08:28 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 23:08:28 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$FB9HVKCEJH27EBIl6jyq8OPyd6FUMWdwDA161PNLJDjsUes2lidiu","fullname":"Uri Raz","_id":"66b282bc83548f1464932f78"}
+6.8.2024, 23:08:28 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 23:10:04 - INFO - server.js loaded...
+6.8.2024, 23:10:04 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:10:26 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 23:10:26 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 23:10:26 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$gR21FbeW7BrE/vePoHxvt.w/XgWKq6WocMtBG4JmF1JkKBVxQkCVy","fullname":"Uri Raz","_id":"66b28332c1690d2f47047ae1"}
+6.8.2024, 23:11:03 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 23:11:03 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$dqOQXnU9uYjXxexIdHj3LOnbt8f5Lp1IF5QaDQF5GOKBq.reWo6f.","fullname":"Uri Raz","_id":"66b28357c1690d2f47047ae2"}
+6.8.2024, 23:11:03 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 23:13:59 - INFO - server.js loaded...
+6.8.2024, 23:13:59 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:14:04 - INFO - server.js loaded...
+6.8.2024, 23:14:04 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:16:34 - INFO - server.js loaded...
+6.8.2024, 23:16:34 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:17:31 - INFO - server.js loaded...
+6.8.2024, 23:17:31 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:18:01 - INFO - server.js loaded...
+6.8.2024, 23:18:01 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:20:26 - INFO - server.js loaded...
+6.8.2024, 23:20:26 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:20:41 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 23:20:41 - ERROR - Failed to signup ReferenceError: logger is not defined
+6.8.2024, 23:22:45 - INFO - server.js loaded...
+6.8.2024, 23:22:45 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:22:50 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 23:22:50 - ERROR - Failed to signup Username already taken
+6.8.2024, 23:23:13 - INFO - server.js loaded...
+6.8.2024, 23:23:13 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:23:23 - INFO - server.js loaded...
+6.8.2024, 23:23:23 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:23:54 - DEBUG - auth.service - signup with username: uri123, fullname: Uri Raz
+6.8.2024, 23:23:54 - ERROR - Failed to signup Username already taken
+6.8.2024, 23:24:41 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 23:24:41 - INFO - User login:  | {"_id":"66b2859995e2f6b100b7ebc8","username":"uri123","fullname":"Uri Raz","imgUrl":null,"isAdmin":true}
+6.8.2024, 23:25:03 - INFO - Req was made | /
+6.8.2024, 23:25:18 - INFO - Req was made | /
+6.8.2024, 23:27:14 - INFO - Req was made | /
+6.8.2024, 23:28:54 - INFO - server.js loaded...
+6.8.2024, 23:28:54 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:31:25 - INFO - server.js loaded...
+6.8.2024, 23:31:25 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:33:20 - INFO - server.js loaded...
+6.8.2024, 23:33:20 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:33:22 - INFO - server.js loaded...
+6.8.2024, 23:33:22 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:33:29 - INFO - server.js loaded...
+6.8.2024, 23:33:30 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:33:32 - INFO - server.js loaded...
+6.8.2024, 23:33:32 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:33:33 - INFO - server.js loaded...
+6.8.2024, 23:33:33 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:33:43 - INFO - server.js loaded...
+6.8.2024, 23:33:43 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:35:02 - INFO - server.js loaded...
+6.8.2024, 23:35:02 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:38:21 - INFO - server.js loaded...
+6.8.2024, 23:38:21 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:39:02 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 23:39:02 - INFO - User login:  | {"_id":"66b2859995e2f6b100b7ebc8","username":"uri123","fullname":"Uri Raz","imgUrl":null,"isAdmin":true}
+6.8.2024, 23:39:13 - DEBUG - auth.service - login with username: uri123
+6.8.2024, 23:39:14 - INFO - User login:  | {"_id":"66b2859995e2f6b100b7ebc8","username":"uri123","fullname":"Uri Raz","imgUrl":null,"isAdmin":true}
+6.8.2024, 23:46:41 - INFO - server.js loaded...
+6.8.2024, 23:46:41 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:47:18 - INFO - server.js loaded...
+6.8.2024, 23:47:18 - INFO - Server listening on port http://127.0.0.1:3030/
+6.8.2024, 23:48:05 - INFO - server.js loaded...
+6.8.2024, 23:48:05 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 20:04:02 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 20:04:02 - INFO - server.js loaded...
+7.8.2024, 20:04:07 - DEBUG - auth.service - login with username: uri123
+7.8.2024, 20:04:07 - INFO - User login:  | {"_id":"66b2859995e2f6b100b7ebc8","username":"uri123","fullname":"Uri Raz","imgUrl":null,"isAdmin":true}
+7.8.2024, 20:08:01 - INFO - Req was made | /
+7.8.2024, 20:08:01 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:08:01 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:09:05 - INFO - Req was made | /
+7.8.2024, 20:09:05 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:09:05 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:10:00 - INFO - server.js loaded...
+7.8.2024, 20:10:00 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 20:10:11 - INFO - server.js loaded...
+7.8.2024, 20:10:11 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 20:10:21 - INFO - Req was made | /
+7.8.2024, 20:10:21 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:10:21 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:11:00 - INFO - Req was made | /
+7.8.2024, 20:11:00 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:11:00 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:11:05 - INFO - server.js loaded...
+7.8.2024, 20:11:05 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 20:11:56 - INFO - server.js loaded...
+7.8.2024, 20:11:56 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 20:12:05 - INFO - Req was made | /
+7.8.2024, 20:12:06 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:12:06 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:13:07 - INFO - Req was made | /
+7.8.2024, 20:13:07 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:13:07 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:13:57 - INFO - server.js loaded...
+7.8.2024, 20:13:57 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 20:16:49 - INFO - Req was made | /
+7.8.2024, 20:16:49 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:16:49 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:28:39 - INFO - Req was made | /
+7.8.2024, 20:28:39 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:28:39 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:29:06 - INFO - Req was made | /
+7.8.2024, 20:29:06 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:29:06 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:29:24 - INFO - Req was made | /
+7.8.2024, 20:29:24 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:29:24 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:33:09 - INFO - server.js loaded...
+7.8.2024, 20:33:09 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 20:33:15 - INFO - Req was made | /
+7.8.2024, 20:33:15 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:33:15 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:40:50 - INFO - Req was made | /
+7.8.2024, 20:40:50 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:40:50 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:40:59 - INFO - Req was made | /
+7.8.2024, 20:40:59 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:40:59 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:41:03 - INFO - Req was made | /
+7.8.2024, 20:41:03 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:41:03 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:42:40 - INFO - server.js loaded...
+7.8.2024, 20:42:40 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 20:42:43 - INFO - Req was made | /
+7.8.2024, 20:42:43 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:42:43 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:43:04 - DEBUG - auth.service - login with username: uri123
+7.8.2024, 20:43:05 - INFO - User login:  | {"_id":"66b2859995e2f6b100b7ebc8","username":"uri123","fullname":"Uri Raz","imgUrl":null,"isAdmin":true}
+7.8.2024, 20:43:31 - INFO - Req was made | /
+7.8.2024, 20:43:31 - ERROR - cannot add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:43:31 - ERROR - Failed to add review | BSONError: hex string must be 24 characters
+7.8.2024, 20:49:37 - INFO - server.js loaded...
+7.8.2024, 20:49:37 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 20:51:39 - INFO - server.js loaded...
+7.8.2024, 20:51:39 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 20:51:51 - INFO - Req was made | /
+7.8.2024, 20:52:21 - INFO - Req was made | /
+7.8.2024, 20:53:44 - INFO - Req was made | /
+7.8.2024, 20:54:04 - INFO - Req was made | /
+7.8.2024, 20:56:15 - INFO - Req was made | /
+7.8.2024, 20:56:16 - INFO - Req was made | /
+7.8.2024, 20:56:23 - INFO - Req was made | /
+7.8.2024, 20:56:33 - INFO - Req was made | /
+7.8.2024, 20:56:38 - INFO - Req was made | /
+7.8.2024, 20:56:47 - INFO - Req was made | /
+7.8.2024, 20:57:00 - INFO - Req was made | /
+7.8.2024, 20:57:04 - INFO - Req was made | /
+7.8.2024, 21:02:10 - INFO - server.js loaded...
+7.8.2024, 21:02:10 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 21:02:14 - INFO - Req was made | /
+7.8.2024, 21:02:29 - INFO - Req was made | /
+7.8.2024, 21:02:44 - DEBUG - auth.service - login with username: uri123
+7.8.2024, 21:02:44 - INFO - User login:  | {"_id":"66b2859995e2f6b100b7ebc8","username":"uri123","fullname":"Uri Raz","imgUrl":null,"isAdmin":true}
+7.8.2024, 21:03:29 - DEBUG - auth.service - login with username: uri123
+7.8.2024, 21:03:29 - INFO - User login:  | {"_id":"66b2859995e2f6b100b7ebc8","username":"uri123","fullname":"Uri Raz","imgUrl":null,"isAdmin":true}
+7.8.2024, 21:03:41 - INFO - Req was made | /
+7.8.2024, 21:05:10 - INFO - server.js loaded...
+7.8.2024, 21:05:10 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 21:05:15 - INFO - Req was made | /
+7.8.2024, 21:05:15 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 21:05:51 - INFO - server.js loaded...
+7.8.2024, 21:05:51 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 21:07:11 - INFO - Req was made | /
+7.8.2024, 21:08:13 - INFO - server.js loaded...
+7.8.2024, 21:08:13 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 21:08:17 - INFO - Req was made | /
+7.8.2024, 21:08:34 - DEBUG - auth.service - login with username: uri123
+7.8.2024, 21:08:35 - INFO - User login:  | {"_id":"66b2859995e2f6b100b7ebc8","username":"uri123","fullname":"Uri Raz","imgUrl":null,"isAdmin":true}
+7.8.2024, 21:09:18 - INFO - Req was made | /
+7.8.2024, 21:11:50 - INFO - Req was made | /
+7.8.2024, 21:11:58 - INFO - Req was made | /
+7.8.2024, 21:12:02 - INFO - Req was made | /
+7.8.2024, 21:12:05 - INFO - Req was made | /
+7.8.2024, 21:12:50 - INFO - Req was made | /
+7.8.2024, 21:13:01 - INFO - Req was made | /
+7.8.2024, 21:13:02 - INFO - Req was made | /
+7.8.2024, 21:13:05 - INFO - Req was made | /
+7.8.2024, 21:13:06 - INFO - Req was made | /
+7.8.2024, 21:14:22 - INFO - Req was made | /
+7.8.2024, 21:59:44 - INFO - Req was made | /
+7.8.2024, 21:59:46 - INFO - Req was made | /
+7.8.2024, 21:59:47 - INFO - Req was made | /
+7.8.2024, 22:00:53 - INFO - server.js loaded...
+7.8.2024, 22:00:53 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 22:01:00 - INFO - server.js loaded...
+7.8.2024, 22:01:00 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 22:01:03 - INFO - Req was made | /
+7.8.2024, 22:01:26 - INFO - server.js loaded...
+7.8.2024, 22:01:26 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 22:01:29 - INFO - Req was made | /
+7.8.2024, 22:04:08 - INFO - Req was made | /
+7.8.2024, 22:07:33 - INFO - Req was made | /
+7.8.2024, 22:09:24 - INFO - server.js loaded...
+7.8.2024, 22:09:24 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 22:09:26 - INFO - Req was made | /
+7.8.2024, 22:09:26 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 22:11:07 - INFO - server.js loaded...
+7.8.2024, 22:11:07 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 22:11:46 - INFO - server.js loaded...
+7.8.2024, 22:11:46 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 22:11:50 - INFO - Req was made | /
+7.8.2024, 22:11:50 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 22:13:20 - INFO - server.js loaded...
+7.8.2024, 22:13:20 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 22:13:22 - INFO - Req was made | /
+7.8.2024, 22:13:22 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 22:14:11 - INFO - Req was made | /
+7.8.2024, 22:14:11 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 22:14:12 - INFO - Req was made | /
+7.8.2024, 22:14:12 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 22:14:13 - INFO - Req was made | /
+7.8.2024, 22:14:13 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 22:19:09 - INFO - Req was made | /
+7.8.2024, 22:19:09 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 22:20:16 - INFO - server.js loaded...
+7.8.2024, 22:20:16 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 22:21:21 - INFO - server.js loaded...
+7.8.2024, 22:21:21 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 22:21:28 - INFO - Req was made | /
+7.8.2024, 22:22:19 - INFO - Req was made | /
+7.8.2024, 22:22:19 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 22:23:28 - INFO - server.js loaded...
+7.8.2024, 22:23:28 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 22:23:33 - INFO - Req was made | /
+7.8.2024, 22:23:33 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 22:24:44 - INFO - server.js loaded...
+7.8.2024, 22:24:44 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 22:24:47 - INFO - Req was made | /
+7.8.2024, 22:25:03 - INFO - Req was made | /
+7.8.2024, 22:25:25 - INFO - Req was made | /
+7.8.2024, 22:43:28 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 22:43:28 - INFO - server.js loaded...
+7.8.2024, 22:43:31 - INFO - Req was made | /
+7.8.2024, 22:44:31 - INFO - server.js loaded...
+7.8.2024, 22:44:31 - INFO - Server listening on port http://127.0.0.1:3030/
+7.8.2024, 22:44:34 - INFO - Req was made | /
+7.8.2024, 22:50:38 - INFO - Server is running on port: 3030
+7.8.2024, 22:50:48 - INFO - Req was made | /
+7.8.2024, 22:51:26 - INFO - Server is running on port: 3030
+7.8.2024, 22:52:17 - DEBUG - auth.service - login with username: uri123
+7.8.2024, 22:52:17 - INFO - User login:  | {"_id":"66b2859995e2f6b100b7ebc8","username":"uri123","fullname":"Uri Raz","imgUrl":null,"isAdmin":true}
+7.8.2024, 22:52:23 - INFO - Req was made | /
+7.8.2024, 22:52:53 - INFO - Req was made | /
+7.8.2024, 22:54:18 - ERROR - while finding toy 66aa9084084e4f61f3e15898 | TypeError: Cannot read properties of null (reading '_id')
+7.8.2024, 22:54:18 - ERROR - Failed to get toy | TypeError: Cannot read properties of null (reading '_id')
+7.8.2024, 22:54:23 - INFO - Req was made | /
+7.8.2024, 22:54:55 - INFO - Server is running on port: 3030
+7.8.2024, 22:55:15 - DEBUG - auth.service - login with username: uri123
+7.8.2024, 22:55:15 - INFO - User login:  | {"_id":"66b2859995e2f6b100b7ebc8","username":"uri123","fullname":"Uri Raz","imgUrl":null,"isAdmin":true}
+7.8.2024, 22:55:30 - INFO - Req was made | /
+7.8.2024, 22:56:10 - INFO - Req was made | /
+7.8.2024, 22:56:24 - INFO - Req was made | /
+7.8.2024, 22:56:31 - INFO - Req was made | /
+7.8.2024, 22:59:22 - INFO - Server is running on port: 3030
+7.8.2024, 22:59:25 - INFO - Req was made | /
+7.8.2024, 22:59:47 - INFO - Server is running on port: 3030
+7.8.2024, 23:00:49 - INFO - Server is running on port: 3030
+7.8.2024, 23:02:00 - INFO - Server is running on port: 3030
+7.8.2024, 23:03:34 - INFO - Req was made | /
+7.8.2024, 23:06:54 - INFO - Server is running on port: 3030
+7.8.2024, 23:06:57 - INFO - Server is running on port: 3030
+7.8.2024, 23:07:37 - INFO - Server is running on port: 3030
+7.8.2024, 23:07:40 - INFO - Req was made | /
+7.8.2024, 23:07:46 - INFO - Server is running on port: 3030
+7.8.2024, 23:10:27 - INFO - Server is running on port: 3030
+7.8.2024, 23:10:37 - DEBUG - auth.service - login with username: uri123
+7.8.2024, 23:10:37 - INFO - User login:  | {"_id":"66b2859995e2f6b100b7ebc8","username":"uri123","fullname":"Uri Raz","imgUrl":null,"isAdmin":true}
+7.8.2024, 23:10:46 - INFO - Req was made | /
+7.8.2024, 23:11:37 - INFO - Server is running on port: 3030
+7.8.2024, 23:13:37 - INFO - Server is running on port: 3030
+7.8.2024, 23:14:25 - INFO - Req was made | /
+7.8.2024, 23:15:33 - DEBUG - auth.service - signup with username: uri123, fullname: uri raz
+7.8.2024, 23:15:33 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$fHaubhW87Vp1lhi5uvYaFeo6Ys0HducMmOA6zZZIEfdGPHWFPrguu","fullname":"uri raz","isAdmin":"true","_id":"66b3d5e51c41b605b4fd00a4"}
+7.8.2024, 23:15:33 - DEBUG - auth.service - login with username: uri123
+7.8.2024, 23:15:34 - INFO - User signup: | {"_id":"66b3d5e51c41b605b4fd00a4","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":"true"}
+7.8.2024, 23:15:50 - DEBUG - auth.service - login with username: uri123
+7.8.2024, 23:15:51 - INFO - User login:  | {"_id":"66b3d5e51c41b605b4fd00a4","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":"true"}
+7.8.2024, 23:15:59 - INFO - Req was made | /
+7.8.2024, 23:16:01 - INFO - Req was made | /
+7.8.2024, 23:18:33 - INFO - Req was made | /
+7.8.2024, 23:18:57 - INFO - Req was made | /
+7.8.2024, 23:19:17 - INFO - Req was made | /
+7.8.2024, 23:19:19 - INFO - Req was made | /
+7.8.2024, 23:20:03 - DEBUG - auth.service - signup with username: puki, fullname: pukimuki
+7.8.2024, 23:20:03 - DEBUG - auth.route - new account created: {"username":"puki","password":"$2b$10$KCq/dDo7.CEX.L8YD/aKPOS8/0QzcpzlhMCwuJid4vPqpJc/g25SW","fullname":"pukimuki","isAdmin":"false","_id":"66b3d6f31c41b605b4fd00a5"}
+7.8.2024, 23:20:03 - DEBUG - auth.service - login with username: puki
+7.8.2024, 23:20:03 - INFO - User signup: | {"_id":"66b3d6f31c41b605b4fd00a5","username":"puki","fullname":"pukimuki","imgUrl":null,"isAdmin":"false"}
+7.8.2024, 23:20:30 - DEBUG - auth.service - login with username: puki
+7.8.2024, 23:20:31 - INFO - User login:  | {"_id":"66b3d6f31c41b605b4fd00a5","username":"puki","fullname":"pukimuki","imgUrl":null,"isAdmin":"false"}
+7.8.2024, 23:21:20 - INFO - Server is running on port: 3030
+7.8.2024, 23:22:55 - INFO - Req was made | /
+7.8.2024, 23:23:11 - INFO - Req was made | /
+7.8.2024, 23:25:08 - INFO - Server is running on port: 3030
+7.8.2024, 23:25:23 - INFO - Server is running on port: 3030
+7.8.2024, 23:25:32 - INFO - Req was made | /
+7.8.2024, 23:26:30 - INFO - Server is running on port: 3030
+7.8.2024, 23:26:52 - DEBUG - auth.service - login with username: puki
+7.8.2024, 23:26:52 - INFO - User login:  | {"_id":"66b3d6f31c41b605b4fd00a5","username":"puki","fullname":"pukimuki","imgUrl":null,"isAdmin":"false"}
+7.8.2024, 23:27:17 - INFO - Server is running on port: 3030
+7.8.2024, 23:28:00 - DEBUG - auth.service - signup with username: uri123, fullname: uri raz
+7.8.2024, 23:28:00 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$T80ODT2QsO8qEdzRS9.6yu3JiHIh2pmoYNZXANLs63txNygmNU50S","fullname":"uri raz","isAdmin":true,"_id":"66b3d8d0ef793a52b6ae1ce6"}
+7.8.2024, 23:28:01 - DEBUG - auth.service - login with username: uri123
+7.8.2024, 23:28:01 - INFO - User signup: | {"_id":"66b3d8d0ef793a52b6ae1ce6","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+7.8.2024, 23:28:10 - DEBUG - auth.service - login with username: puki
+7.8.2024, 23:28:10 - ERROR - Failed to Login Error: Invalid username or password
+7.8.2024, 23:28:23 - DEBUG - auth.service - login with username: uri123
+7.8.2024, 23:28:23 - INFO - User login:  | {"_id":"66b3d8d0ef793a52b6ae1ce6","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+7.8.2024, 23:29:35 - DEBUG - auth.service - signup with username: puki, fullname: pukimuki
+7.8.2024, 23:29:35 - DEBUG - auth.route - new account created: {"username":"puki","password":"$2b$10$TKtkSG5b3PNRMHWZClJRKuEreeIxjYcZ8OZwycLhuCJoeU.pMHNUq","fullname":"pukimuki","isAdmin":false,"_id":"66b3d92fef793a52b6ae1ce7"}
+7.8.2024, 23:29:35 - DEBUG - auth.service - login with username: puki
+7.8.2024, 23:29:35 - INFO - User signup: | {"_id":"66b3d92fef793a52b6ae1ce7","username":"puki","fullname":"pukimuki","imgUrl":null,"isAdmin":false}
+7.8.2024, 23:30:15 - DEBUG - auth.service - login with username: puki
+7.8.2024, 23:30:16 - INFO - User login:  | {"_id":"66b3d92fef793a52b6ae1ce7","username":"puki","fullname":"pukimuki","imgUrl":null,"isAdmin":false}
+7.8.2024, 23:30:31 - WARN - pukimukiattempted to perform admin action
+7.8.2024, 23:31:02 - INFO - Req was made | /
+7.8.2024, 23:31:14 - INFO - Req was made | /
+7.8.2024, 23:31:16 - INFO - Req was made | /
+7.8.2024, 23:31:20 - INFO - Req was made | /
+7.8.2024, 23:31:20 - INFO - Req was made | /
+7.8.2024, 23:31:21 - INFO - Req was made | /
+7.8.2024, 23:31:22 - INFO - Req was made | /
+7.8.2024, 23:31:24 - INFO - Req was made | /
+7.8.2024, 23:37:18 - INFO - Server is running on port: 3030
+7.8.2024, 23:37:26 - INFO - Req was made | /
+7.8.2024, 23:41:42 - INFO - Server is running on port: 3030
+7.8.2024, 23:44:48 - INFO - Server is running on port: 3030
+7.8.2024, 23:44:51 - INFO - Req was made | /
+7.8.2024, 23:45:07 - INFO - Server is running on port: 3030
+7.8.2024, 23:45:24 - DEBUG - auth.service - login with username: puki
+7.8.2024, 23:45:24 - INFO - User login:  | {"_id":"66b3d92fef793a52b6ae1ce7","username":"puki","fullname":"pukimuki","imgUrl":null,"isAdmin":false}
+7.8.2024, 23:46:24 - WARN - pukimukiattempted to perform admin action
+7.8.2024, 23:47:14 - INFO - Server is running on port: 3030
+7.8.2024, 23:47:17 - WARN - pukimukiattempted to perform admin action
+7.8.2024, 23:55:50 - INFO - Server is running on port: 3030
+8.8.2024, 0:01:47 - DEBUG - auth.service - login with username: uri123
+8.8.2024, 0:01:48 - INFO - User login:  | {"_id":"66b3d8d0ef793a52b6ae1ce6","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+8.8.2024, 0:02:25 - INFO - Req was made | /
+8.8.2024, 0:02:35 - INFO - Req was made | /
+8.8.2024, 0:02:43 - INFO - Req was made | /
+8.8.2024, 0:02:50 - INFO - Req was made | /
+8.8.2024, 0:02:54 - INFO - Req was made | /
+8.8.2024, 0:20:57 - INFO - Server is running on port: 3030
+8.8.2024, 0:21:04 - INFO - Req was made | /
+8.8.2024, 0:22:09 - DEBUG - auth.service - login with username: uri123
+8.8.2024, 0:22:10 - INFO - User login:  | {"_id":"66b3d8d0ef793a52b6ae1ce6","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+8.8.2024, 11:24:19 - INFO - Server is running on port: 3030
+8.8.2024, 11:24:45 - DEBUG - auth.service - login with username: uri123
+8.8.2024, 11:24:45 - INFO - User login:  | {"_id":"66b3d8d0ef793a52b6ae1ce6","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+8.8.2024, 11:25:01 - INFO - Req was made | /
+8.8.2024, 11:41:31 - INFO - Server is running on port: 3030
+8.8.2024, 11:41:46 - DEBUG - auth.service - login with username: uri123
+8.8.2024, 11:41:46 - INFO - User login:  | {"_id":"66b3d8d0ef793a52b6ae1ce6","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+8.8.2024, 11:42:07 - INFO - Req was made | /
+8.8.2024, 11:46:11 - INFO - Server is running on port: 3030
+8.8.2024, 11:46:17 - INFO - Req was made | /
+8.8.2024, 11:46:29 - INFO - Server is running on port: 3030
+8.8.2024, 11:46:39 - INFO - Req was made | /
+8.8.2024, 11:46:40 - INFO - Req was made | /
+8.8.2024, 11:46:41 - INFO - Req was made | /
+8.8.2024, 11:51:24 - INFO - Server is running on port: 3030
+8.8.2024, 11:51:43 - INFO - Req was made | /
+8.8.2024, 11:52:17 - INFO - Req was made | /
+8.8.2024, 11:52:38 - INFO - Req was made | /
+8.8.2024, 11:52:40 - INFO - Req was made | /
+8.8.2024, 11:53:00 - DEBUG - auth.service - login with username: uri123
+8.8.2024, 11:53:00 - INFO - User login:  | {"_id":"66b3d8d0ef793a52b6ae1ce6","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+8.8.2024, 11:54:01 - INFO - Req was made | /
+8.8.2024, 11:54:07 - INFO - Req was made | /
+8.8.2024, 11:54:09 - INFO - Req was made | /
+8.8.2024, 11:55:11 - INFO - Server is running on port: 3030
+8.8.2024, 11:55:27 - INFO - Server is running on port: 3030
+8.8.2024, 11:55:32 - INFO - Req was made | /
+8.8.2024, 11:56:15 - INFO - Server is running on port: 3030
+8.8.2024, 12:00:36 - INFO - Req was made | /
+8.8.2024, 12:00:49 - INFO - Req was made | /
+8.8.2024, 12:00:56 - DEBUG - auth.service - login with username: uri123
+8.8.2024, 12:00:56 - INFO - User login:  | {"_id":"66b3d8d0ef793a52b6ae1ce6","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+8.8.2024, 12:01:24 - INFO - Req was made | / | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:01:24 - ERROR - while finding user 66b4871545e8899c6e7e2125 | TypeError: Cannot convert undefined or null to object | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:01:24 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:01:49 - INFO - Req was made | / | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:01:49 - ERROR - while finding user 66b4871545e8899c6e7e2125 | TypeError: Cannot convert undefined or null to object | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:01:49 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:02:42 - INFO - Req was made | / | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:02:43 - ERROR - while finding user 66b4871545e8899c6e7e2125 | TypeError: Cannot convert undefined or null to object | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:02:43 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:03:21 - INFO - Req was made | / | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:03:21 - ERROR - while finding user 66b4871545e8899c6e7e2125 | TypeError: Cannot convert undefined or null to object | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:03:21 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:06:48 - INFO - Server is running on port: 3030
+8.8.2024, 12:06:49 - INFO - Req was made | / | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:06:50 - DEBUG - addReview - loggedinUser: | {"_id":"66b3d8d0ef793a52b6ae1ce6","fullname":"uri raz","isAdmin":true} | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:06:50 - DEBUG - addReview - review: | {"byUserId":"66b3d8d0ef793a52b6ae1ce6","aboutUserId":"66b4871545e8899c6e7e2125","txt":"new review","_id":"66b48aaae6633f9200aeef14"} | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:06:50 - ERROR - while finding user 66b4871545e8899c6e7e2125 | TypeError: Cannot convert undefined or null to object | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:06:50 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:15 - INFO - Req was made | / | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:15 - DEBUG - addReview - loggedinUser: | {"_id":"66b3d8d0ef793a52b6ae1ce6","fullname":"uri raz","isAdmin":true} | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:15 - DEBUG - addReview - review: | {"byUserId":"66b3d8d0ef793a52b6ae1ce6","aboutUserId":"66b4877745e8899c6e7e2126","txt":"new review","_id":"66b48b3be6633f9200aeef15"} | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:15 - ERROR - while finding user 66b4877745e8899c6e7e2126 | TypeError: Cannot convert undefined or null to object | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:15 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:26 - INFO - Req was made | / | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:26 - DEBUG - addReview - loggedinUser: | {"_id":"66b3d8d0ef793a52b6ae1ce6","fullname":"uri raz","isAdmin":true} | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:26 - DEBUG - addReview - review: | {"byUserId":"66b3d8d0ef793a52b6ae1ce6","aboutUserId":"66b26af0256028673cc5e702","txt":"new review","_id":"66b48b46e6633f9200aeef16"} | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:26 - ERROR - while finding user 66b26af0256028673cc5e702 | TypeError: Cannot convert undefined or null to object | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:26 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:39 - INFO - Req was made | / | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:39 - DEBUG - addReview - loggedinUser: | {"_id":"66b3d8d0ef793a52b6ae1ce6","fullname":"uri raz","isAdmin":true} | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:39 - DEBUG - addReview - review: | {"byUserId":"66b3d8d0ef793a52b6ae1ce6","aboutUserId":"66b3d92fef793a52b6ae1ce7","txt":"new review","_id":"66b48b53e6633f9200aeef17"} | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:39 - ERROR - while finding user 66b3d92fef793a52b6ae1ce7 | ReferenceError: criteria is not defined | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:39 - ERROR - Failed to add review | ReferenceError: criteria is not defined | 66b3d8d0ef793a52b6ae1ce6
+8.8.2024, 12:09:49 - DEBUG - auth.service - login with username: uri123
+8.8.2024, 12:09:49 - ERROR - Failed to Login Error: Invalid username or password
+8.8.2024, 12:09:58 - DEBUG - auth.service - login with username: uri123
+8.8.2024, 12:09:58 - ERROR - Failed to Login Error: Invalid username or password
+8.8.2024, 12:09:59 - DEBUG - auth.service - login with username: uri123
+8.8.2024, 12:09:59 - ERROR - Failed to Login Error: Invalid username or password
+8.8.2024, 12:10:00 - DEBUG - auth.service - login with username: uri123
+8.8.2024, 12:10:00 - ERROR - Failed to Login Error: Invalid username or password
+8.8.2024, 12:10:42 - DEBUG - auth.service - signup with username: uri123, fullname: uri raz
+8.8.2024, 12:10:42 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$YTNW4eeVhpmfVtSSsgw2VOIB3t2V90ei2/f9LD6UDtx4t07IIpHyG","fullname":"uri raz","isAdmin":true,"_id":"66b48b92e6633f9200aeef18"}
+8.8.2024, 12:10:42 - DEBUG - auth.service - login with username: uri123
+8.8.2024, 12:10:42 - INFO - User signup: | {"_id":"66b48b92e6633f9200aeef18","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+8.8.2024, 12:10:49 - DEBUG - auth.service - login with username: uri123 | 66b48b92e6633f9200aeef18
+8.8.2024, 12:10:49 - INFO - User login:  | {"_id":"66b48b92e6633f9200aeef18","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:01 - INFO - Req was made | / | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:01 - DEBUG - addReview - loggedinUser: | {"_id":"66b48b92e6633f9200aeef18","fullname":"uri raz","isAdmin":true} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:01 - DEBUG - addReview - review: | {"byUserId":"66b48b92e6633f9200aeef18","aboutUserId":"66b4877745e8899c6e7e2126","txt":"new review","_id":"66b48ba5e6633f9200aeef19"} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:01 - ERROR - while finding user 66b4877745e8899c6e7e2126 | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:01 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:06 - INFO - Req was made | / | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:06 - DEBUG - addReview - loggedinUser: | {"_id":"66b48b92e6633f9200aeef18","fullname":"uri raz","isAdmin":true} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:06 - DEBUG - addReview - review: | {"byUserId":"66b48b92e6633f9200aeef18","aboutUserId":"66b4877745e8899c6e7e2126","txt":"new review","_id":"66b48baae6633f9200aeef1a"} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:06 - ERROR - while finding user 66b4877745e8899c6e7e2126 | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:06 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:07 - INFO - Req was made | / | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:07 - DEBUG - addReview - loggedinUser: | {"_id":"66b48b92e6633f9200aeef18","fullname":"uri raz","isAdmin":true} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:07 - DEBUG - addReview - review: | {"byUserId":"66b48b92e6633f9200aeef18","aboutUserId":"66b4877745e8899c6e7e2126","txt":"new review","_id":"66b48babe6633f9200aeef1b"} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:07 - ERROR - while finding user 66b4877745e8899c6e7e2126 | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:07 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:08 - INFO - Req was made | / | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:08 - DEBUG - addReview - loggedinUser: | {"_id":"66b48b92e6633f9200aeef18","fullname":"uri raz","isAdmin":true} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:08 - DEBUG - addReview - review: | {"byUserId":"66b48b92e6633f9200aeef18","aboutUserId":"66b4877745e8899c6e7e2126","txt":"new review","_id":"66b48bace6633f9200aeef1c"} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:08 - ERROR - while finding user 66b4877745e8899c6e7e2126 | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:11:08 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:28 - INFO - Req was made | / | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:28 - DEBUG - addReview - loggedinUser: | {"_id":"66b48b92e6633f9200aeef18","fullname":"uri raz","isAdmin":true} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:28 - DEBUG - addReview - review: | {"byUserId":"66b48b92e6633f9200aeef18","aboutUserId":"66b48bcce6633f9200aeef1d","txt":"new review","_id":"66b48bfce6633f9200aeef1e"} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:28 - ERROR - while finding user 66b48bcce6633f9200aeef1d | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:28 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:44 - INFO - Req was made | / | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:44 - DEBUG - addReview - loggedinUser: | {"_id":"66b48b92e6633f9200aeef18","fullname":"uri raz","isAdmin":true} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:44 - DEBUG - addReview - review: | {"byUserId":"66b48b92e6633f9200aeef18","aboutUserId":"66b48b92e6633f9200aeef18","txt":"new review","_id":"66b48c0ce6633f9200aeef1f"} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:44 - ERROR - while finding user 66b48b92e6633f9200aeef18 | ReferenceError: criteria is not defined | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:44 - ERROR - Failed to add review | ReferenceError: criteria is not defined | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:55 - INFO - Req was made | / | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:55 - DEBUG - addReview - loggedinUser: | {"_id":"66b48b92e6633f9200aeef18","fullname":"uri raz","isAdmin":true} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:55 - DEBUG - addReview - review: | {"byUserId":"66b48b92e6633f9200aeef18","aboutUserId":"66b48bcce6633f9200aeef1d","txt":"new review","_id":"66b48c17e6633f9200aeef20"} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:55 - ERROR - while finding user 66b48bcce6633f9200aeef1d | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:12:55 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:15:23 - INFO - Req was made | / | 66b48b92e6633f9200aeef18
+8.8.2024, 12:15:23 - DEBUG - addReview - loggedinUser: | {"_id":"66b48b92e6633f9200aeef18","fullname":"uri raz","isAdmin":true} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:15:23 - DEBUG - addReview - review: | {"byUserId":"66b48b92e6633f9200aeef18","aboutUserId":"66b48b92e6633f9200aeef18","txt":"new review","_id":"66b48cabe6633f9200aeef21"} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:15:23 - ERROR - while finding user 66b48b92e6633f9200aeef18 | ReferenceError: criteria is not defined | 66b48b92e6633f9200aeef18
+8.8.2024, 12:15:23 - ERROR - Failed to add review | ReferenceError: criteria is not defined | 66b48b92e6633f9200aeef18
+8.8.2024, 12:15:45 - INFO - Req was made | / | 66b48b92e6633f9200aeef18
+8.8.2024, 12:15:45 - DEBUG - addReview - loggedinUser: | {"_id":"66b48b92e6633f9200aeef18","fullname":"uri raz","isAdmin":true} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:15:45 - DEBUG - addReview - review: | {"byUserId":"66b48b92e6633f9200aeef18","aboutUserId":"66b48bcce6633f9200aeef1d","txt":"new review","_id":"66b48cc1e6633f9200aeef22"} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:15:45 - ERROR - while finding user 66b48bcce6633f9200aeef1d | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:15:45 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:16:12 - INFO - Server is running on port: 3030
+8.8.2024, 12:16:19 - INFO - Req was made | / | 66b48b92e6633f9200aeef18
+8.8.2024, 12:16:19 - DEBUG - addReview - loggedinUser: | {"_id":"66b48b92e6633f9200aeef18","fullname":"uri raz","isAdmin":true} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:16:19 - DEBUG - addReview - review: | {"byUserId":"66b48b92e6633f9200aeef18","aboutUserId":"66b48bcce6633f9200aeef1d","txt":"new review","_id":"66b48ce391620b68e56582cd"} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:16:19 - ERROR - while finding user 66b48bcce6633f9200aeef1d | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:16:19 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:19:45 - INFO - Server is running on port: 3030
+8.8.2024, 12:20:03 - INFO - Server is running on port: 3030
+8.8.2024, 12:20:08 - INFO - Req was made | / | 66b48b92e6633f9200aeef18
+8.8.2024, 12:20:08 - DEBUG - addReview - loggedinUser: | {"_id":"66b48b92e6633f9200aeef18","fullname":"uri raz","isAdmin":true} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:20:08 - DEBUG - addReview - review: | {"byUserId":"66b48b92e6633f9200aeef18","aboutUserId":"66b48bcce6633f9200aeef1d","txt":"new review","_id":"66b48dc8ff4027d67b7a1ec1"} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:20:08 - ERROR - while finding user 66b48bcce6633f9200aeef1d | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:20:08 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b48b92e6633f9200aeef18
+8.8.2024, 12:22:53 - DEBUG - auth.service - signup with username: puki, fullname: pukimuki | 66b48b92e6633f9200aeef18
+8.8.2024, 12:22:53 - DEBUG - auth.route - new account created: {"username":"puki","password":"$2b$10$9pHR9G.SF6USZoqN2qGSwuomY469JKBEc42QZ/.t1.1x28gx6Cu7m","fullname":"pukimuki","isAdmin":false,"_id":"66b48e6dff4027d67b7a1ec2"} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:22:53 - DEBUG - auth.service - login with username: puki | 66b48b92e6633f9200aeef18
+8.8.2024, 12:22:53 - INFO - User signup: | {"_id":"66b48e6dff4027d67b7a1ec2","username":"puki","fullname":"pukimuki","imgUrl":null,"isAdmin":false} | 66b48b92e6633f9200aeef18
+8.8.2024, 12:23:27 - DEBUG - auth.service - login with username: puki
+8.8.2024, 12:23:27 - INFO - User login:  | {"_id":"66b48e6dff4027d67b7a1ec2","username":"puki","fullname":"pukimuki","imgUrl":null,"isAdmin":false}
+8.8.2024, 12:23:36 - WARN - pukimukiattempted to perform admin action | 66b48e6dff4027d67b7a1ec2
+8.8.2024, 12:24:09 - DEBUG - auth.service - signup with username: puki, fullname: pukimuki | 66b48e6dff4027d67b7a1ec2
+8.8.2024, 12:24:09 - DEBUG - auth.route - new account created: {"username":"puki","password":"$2b$10$WIHcrQXS9BFcGSvuHh5JoubKUmGlIkZeT73ZRK71Zpbx.eyj8L002","fullname":"pukimuki","isAdmin":true,"_id":"66b48eb9ff4027d67b7a1ec3"} | 66b48e6dff4027d67b7a1ec2
+8.8.2024, 12:24:09 - DEBUG - auth.service - login with username: puki | 66b48e6dff4027d67b7a1ec2
+8.8.2024, 12:24:09 - INFO - User signup: | {"_id":"66b48eb9ff4027d67b7a1ec3","username":"puki","fullname":"pukimuki","imgUrl":null,"isAdmin":true} | 66b48e6dff4027d67b7a1ec2
+8.8.2024, 12:24:17 - DEBUG - auth.service - login with username: puki
+8.8.2024, 12:24:17 - INFO - User login:  | {"_id":"66b48eb9ff4027d67b7a1ec3","username":"puki","fullname":"pukimuki","imgUrl":null,"isAdmin":true}
+8.8.2024, 12:24:52 - INFO - Req was made | / | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:24:52 - DEBUG - addReview - loggedinUser: | {"_id":"66b48eb9ff4027d67b7a1ec3","fullname":"pukimuki","isAdmin":true} | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:24:52 - DEBUG - addReview - review: | {"byUserId":"66b48eb9ff4027d67b7a1ec3","aboutUserId":"66b48bcce6633f9200aeef1d","txt":"new review","_id":"66b48ee4ff4027d67b7a1ec4"} | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:24:53 - ERROR - while finding user 66b48bcce6633f9200aeef1d | TypeError: Cannot convert undefined or null to object | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:24:53 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:25:22 - INFO - Req was made | / | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:25:22 - DEBUG - addReview - loggedinUser: | {"_id":"66b48eb9ff4027d67b7a1ec3","fullname":"pukimuki","isAdmin":true} | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:25:22 - DEBUG - addReview - review: | {"byUserId":"66b48eb9ff4027d67b7a1ec3","aboutUserId":"66b48b92e6633f9200aeef18","txt":"new review","_id":"66b48f02ff4027d67b7a1ec5"} | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:25:22 - ERROR - while finding user 66b48b92e6633f9200aeef18 | ReferenceError: criteria is not defined | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:25:22 - ERROR - Failed to add review | ReferenceError: criteria is not defined | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:26:59 - INFO - Req was made | / | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:26:59 - DEBUG - addReview - loggedinUser: | {"_id":"66b48eb9ff4027d67b7a1ec3","fullname":"pukimuki","isAdmin":true} | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:26:59 - DEBUG - addReview - review: | {"byUserId":"66b48eb9ff4027d67b7a1ec3","aboutUserId":"66b4877745e8899c6e7e2126","txt":"new review2","_id":"66b48f63ff4027d67b7a1ec6"} | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:26:59 - ERROR - while finding user 66b4877745e8899c6e7e2126 | TypeError: Cannot convert undefined or null to object | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:26:59 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:27:30 - INFO - Req was made | / | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:27:30 - DEBUG - addReview - loggedinUser: | {"_id":"66b48eb9ff4027d67b7a1ec3","fullname":"pukimuki","isAdmin":true} | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:27:30 - DEBUG - addReview - review: | {"byUserId":"66b48eb9ff4027d67b7a1ec3","aboutUserId":"66b48bcce6633f9200aeef1d","txt":"new review2","_id":"66b48f82ff4027d67b7a1ec7"} | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:27:30 - ERROR - while finding user 66b48bcce6633f9200aeef1d | TypeError: Cannot convert undefined or null to object | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 12:27:30 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b48eb9ff4027d67b7a1ec3

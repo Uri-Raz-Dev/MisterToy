@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Laughing Toy",
+        "price": 123,
+        "labels": [
+            "Toy",
+            "Battery Powered",
+            "Baby"
+        ],
+        "createdAt": 1614371234567,
+        "inStock": true,
+        "msgs": []
+    },
+    {
+        "name": "Singing Toy",
+        "price": 130,
+        "labels": [
+            "Toy",
+            "Battery Powered",
+            "Toddler"
+        ],
+        "createdAt": 1629187654321,
+        "inStock": false,
+        "msgs": [
+            {}
+        ]
+    },
+    {
+        "name": "Dancing Toy",
+        "price": 140,
+        "labels": [
+            "Toy",
+            "Battery Powered",
+            "Kids"
+        ],
+        "createdAt": 1636789123456,
+        "inStock": true,
+        "msgs": []
+    },
+    {
+        "name": "Talking Toy",
+        "price": 150,
+        "labels": [
+            "Toy",
+            "Battery Powered",
+            "Infant"
+        ],
+        "createdAt": 1649876543210,
+        "inStock": false,
+        "msgs": []
+    },
+    {
+        "name": "Walking Toy",
+        "price": 160,
+        "labels": [
+            "Toy",
+            "Battery Powered",
+            "Baby"
+        ],
+        "createdAt": 1662954321098,
+        "inStock": true,
+        "msgs": []
+    }
+]

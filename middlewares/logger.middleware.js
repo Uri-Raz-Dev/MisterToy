@@ -1,4 +1,4 @@
-import { loggerService } from "../public/services/logger.service.js"
+import { loggerService } from "../services/logger.service.js"
 
 
 export async function log(req, res, next) {

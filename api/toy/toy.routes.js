@@ -5,7 +5,7 @@ import { getToys, getToyById, addToy, updateToy, removeToy, addToyMsg, removeToy
 
 export const toyRoutes = express.Router()
 
-console.log(toyRoutes);
+// console.log(toyRoutes);
 // middleware that is specific to this router
 // router.use(requireAuth)
 

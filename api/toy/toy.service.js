@@ -1,7 +1,7 @@
 import { ObjectId } from 'mongodb'
-import { utilService } from '../../public/services/util.service.js'
-import { loggerService } from '../../public/services/logger.service.js'
-import { dbService } from '../../public/services/db.service.js'
+import { utilService } from '../../services/util.service.js'
+import { loggerService } from '../../services/logger.service.js'
+import { dbService } from '../../services/db.service.js'
 
 export const toyService = {
 	remove,
