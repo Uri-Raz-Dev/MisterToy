@@ -927,3 +927,15 @@
 8.8.2024, 12:27:30 - DEBUG - addReview - review: | {"byUserId":"66b48eb9ff4027d67b7a1ec3","aboutUserId":"66b48bcce6633f9200aeef1d","txt":"new review2","_id":"66b48f82ff4027d67b7a1ec7"} | 66b48eb9ff4027d67b7a1ec3
 8.8.2024, 12:27:30 - ERROR - while finding user 66b48bcce6633f9200aeef1d | TypeError: Cannot convert undefined or null to object | 66b48eb9ff4027d67b7a1ec3
 8.8.2024, 12:27:30 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 15:05:30 - INFO - Server is running on port: 3030
+8.8.2024, 15:06:48 - INFO - Server is running on port: 3030
+8.8.2024, 15:09:32 - INFO - Server is running on port: 3030
+8.8.2024, 15:09:35 - INFO - Req was made | / | 66aa8fc7084e4f61f3e15897
+8.8.2024, 15:09:35 - INFO - Req was made | / | 66aa8fc7084e4f61f3e15897
+8.8.2024, 15:10:14 - INFO - Server is running on port: 3030
+8.8.2024, 15:10:34 - INFO - Server is running on port: 3030
+8.8.2024, 15:10:46 - INFO - Server is running on port: 3030
+8.8.2024, 15:13:41 - INFO - Server is running on port: 3030
+8.8.2024, 15:23:56 - INFO - Server is running on port: 3030
+8.8.2024, 15:24:45 - INFO - Req was made | / | 66aa8fc7084e4f61f3e15897
+8.8.2024, 15:24:46 - INFO - Req was made | / | 66aa8fc7084e4f61f3e15897
