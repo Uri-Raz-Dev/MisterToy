@@ -8,7 +8,7 @@ export async function getReviews(req, res) {
         const reviews = await reviewService.query(req.query)
         res.send(reviews)
     } catch (err) {
-        logger.error('Cannot get reviews', err)
+        loggerService.error('Cannot get reviews', err)
         res.status(400).send({ err: 'Failed to get reviews' })
     }
 }
