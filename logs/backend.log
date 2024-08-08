@@ -939,3 +939,41 @@
 8.8.2024, 15:23:56 - INFO - Server is running on port: 3030
 8.8.2024, 15:24:45 - INFO - Req was made | / | 66aa8fc7084e4f61f3e15897
 8.8.2024, 15:24:46 - INFO - Req was made | / | 66aa8fc7084e4f61f3e15897
+8.8.2024, 15:50:11 - INFO - Server is running on port: 3030
+8.8.2024, 15:50:35 - INFO - Req was made | / | 66aa8fc7084e4f61f3e15897
+8.8.2024, 15:50:36 - INFO - Req was made | / | 66aa8fc7084e4f61f3e15897
+8.8.2024, 15:51:05 - DEBUG - auth.service - login with username: uri123 | 66aa8fc7084e4f61f3e15897
+8.8.2024, 15:51:05 - ERROR - Failed to Login Error: Invalid username or password | 66aa8fc7084e4f61f3e15897
+8.8.2024, 15:51:26 - DEBUG - auth.service - signup with username: uri123, fullname: uri raz | 66aa8fc7084e4f61f3e15897
+8.8.2024, 15:51:26 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$R/AW9S7xu1rjfN79XtmgReQOe9ryk1gzMGs.0VH5O/uBxwZpVDWk.","fullname":"uri raz","_id":"66b4bf4e92d4fb6e68b5a298"} | 66aa8fc7084e4f61f3e15897
+8.8.2024, 15:51:26 - DEBUG - auth.service - login with username: uri123 | 66aa8fc7084e4f61f3e15897
+8.8.2024, 15:51:26 - INFO - User signup: | {"_id":"66b4bf4e92d4fb6e68b5a298","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":null} | 66aa8fc7084e4f61f3e15897
+8.8.2024, 15:53:05 - INFO - Req was made | / | 66b4bf4e92d4fb6e68b5a298
+8.8.2024, 15:53:06 - INFO - Req was made | / | 66b4bf4e92d4fb6e68b5a298
+8.8.2024, 15:53:09 - WARN - uri razattempted to perform admin action | 66b4bf4e92d4fb6e68b5a298
+8.8.2024, 15:53:27 - WARN - uri razattempted to perform admin action | 66b4bf4e92d4fb6e68b5a298
+8.8.2024, 15:55:28 - INFO - Server is running on port: 3030
+8.8.2024, 15:55:51 - DEBUG - auth.service - signup with username: uri123, fullname: uri raz | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 15:55:51 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$q96yL1aHjpjTL.pDE0I36eBgnZsAMfX7i1TkjShLy14sOByJATstq","fullname":"uri raz","isAdmin":true,"_id":"66b4c05734ccf94e712fbb51"} | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 15:55:51 - DEBUG - auth.service - login with username: uri123 | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 15:55:52 - INFO - User signup: | {"_id":"66b4c05734ccf94e712fbb51","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true} | 66b48eb9ff4027d67b7a1ec3
+8.8.2024, 15:56:06 - DEBUG - auth.service - signup with username: puki, fullname: pukimuki | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:56:06 - DEBUG - auth.route - new account created: {"username":"puki","password":"$2b$10$HwCnQGQBMqFnH4Lq4R7Ni.zgYzq0pZC8ouFtJqYzeQVSJq3lwsvia","fullname":"pukimuki","isAdmin":true,"_id":"66b4c06634ccf94e712fbb52"} | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:56:06 - DEBUG - auth.service - login with username: puki | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:56:06 - INFO - User signup: | {"_id":"66b4c06634ccf94e712fbb52","username":"puki","fullname":"pukimuki","imgUrl":null,"isAdmin":true} | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:56:30 - INFO - Server is running on port: 3030
+8.8.2024, 15:57:55 - DEBUG - auth.service - login with username: uri123
+8.8.2024, 15:57:55 - INFO - User login:  | {"_id":"66b4c05734ccf94e712fbb51","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+8.8.2024, 15:57:56 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:57:56 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:58:04 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:58:22 - INFO - Server is running on port: 3030
+8.8.2024, 15:58:27 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:58:28 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:58:33 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:58:38 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:58:43 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:58:47 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:58:48 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:58:57 - DEBUG - auth.service - login with username: uri123 | 66b4c05734ccf94e712fbb51
+8.8.2024, 15:58:57 - INFO - User login:  | {"_id":"66b4c05734ccf94e712fbb51","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true} | 66b4c05734ccf94e712fbb51

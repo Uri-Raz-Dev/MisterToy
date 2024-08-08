@@ -1,19 +1,19 @@
 [{
   "_id": {
-    "$oid": "66b48b92e6633f9200aeef18"
+    "$oid": "66b4c05734ccf94e712fbb51"
   },
-  "username": null,
-  "password": "$2b$10$YTNW4eeVhpmfVtSSsgw2VOIB3t2V90ei2/f9LD6UDtx4t07IIpHyG",
+  "username": "uri123",
+  "password": "$2b$10$q96yL1aHjpjTL.pDE0I36eBgnZsAMfX7i1TkjShLy14sOByJATstq",
   "fullname": "uri raz",
   "imgUrl": null,
   "isAdmin": true
 },
 {
   "_id": {
-    "$oid": "66b48eb9ff4027d67b7a1ec3"
+    "$oid": "66b4c06634ccf94e712fbb52"
   },
-  "username": null,
-  "password": "$2b$10$WIHcrQXS9BFcGSvuHh5JoubKUmGlIkZeT73ZRK71Zpbx.eyj8L002",
+  "username": "puki",
+  "password": "$2b$10$HwCnQGQBMqFnH4Lq4R7Ni.zgYzq0pZC8ouFtJqYzeQVSJq3lwsvia",
   "fullname": "pukimuki",
   "imgUrl": null,
   "isAdmin": true
