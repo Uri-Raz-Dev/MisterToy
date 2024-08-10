@@ -977,3 +977,84 @@
 8.8.2024, 15:58:48 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
 8.8.2024, 15:58:57 - DEBUG - auth.service - login with username: uri123 | 66b4c05734ccf94e712fbb51
 8.8.2024, 15:58:57 - INFO - User login:  | {"_id":"66b4c05734ccf94e712fbb51","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true} | 66b4c05734ccf94e712fbb51
+8.8.2024, 18:37:12 - INFO - Server is running on port: 3030
+8.8.2024, 18:37:38 - INFO - Req was made | /
+8.8.2024, 18:37:39 - INFO - Req was made | /
+8.8.2024, 18:37:54 - INFO - Req was made | /
+8.8.2024, 18:37:54 - INFO - Req was made | /
+8.8.2024, 18:48:33 - DEBUG - auth.service - login with username: uri123 | 66b4c06634ccf94e712fbb52
+8.8.2024, 18:48:33 - INFO - User login:  | {"_id":"66b4c05734ccf94e712fbb51","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true} | 66b4c06634ccf94e712fbb52
+8.8.2024, 18:49:14 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+8.8.2024, 18:49:14 - DEBUG - addReview - loggedinUser: | {"_id":"66b4c05734ccf94e712fbb51","fullname":"uri raz","isAdmin":true} | 66b4c05734ccf94e712fbb51
+8.8.2024, 18:49:14 - DEBUG - addReview - review: | {"byUserId":"66b4c05734ccf94e712fbb51","aboutUserId":"66b48bcce6633f9200aeef1d","txt":"hi","_id":"66b4e8fa32a00706ed429964"} | 66b4c05734ccf94e712fbb51
+8.8.2024, 18:49:14 - ERROR - while finding user 66b48bcce6633f9200aeef1d | TypeError: Cannot convert undefined or null to object | 66b4c05734ccf94e712fbb51
+8.8.2024, 18:49:14 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object | 66b4c05734ccf94e712fbb51
+8.8.2024, 18:51:55 - INFO - Req was made | /
+8.8.2024, 18:52:32 - INFO - Req was made | /
+8.8.2024, 18:59:50 - INFO - Server is running on port: 3030
+10.8.2024, 20:21:35 - INFO - Server is running on port: 3030
+10.8.2024, 20:22:42 - INFO - Server is running on port: 3030
+10.8.2024, 20:23:47 - INFO - Server is running on port: 3030
+10.8.2024, 20:24:58 - INFO - Server is running on port: 3030
+10.8.2024, 20:24:59 - INFO - Server is running on port: 3030
+10.8.2024, 20:25:22 - DEBUG - auth.service - login with username: uri123
+10.8.2024, 20:25:22 - ERROR - Failed to Login Error: Invalid username or password
+10.8.2024, 20:25:52 - DEBUG - auth.service - signup with username: uri123, fullname: uri raz
+10.8.2024, 20:25:52 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$aESwt6gW4nTThG3IXzl2BO2btDiEdpWkyF5Uk5auPrQAjj8gDdsa6","fullname":"uri raz","isAdmin":true,"_id":"66b7a2a0c29a022fe3aeb311"}
+10.8.2024, 20:25:52 - DEBUG - auth.service - login with username: uri123
+10.8.2024, 20:25:52 - INFO - User signup: | {"_id":"66b7a2a0c29a022fe3aeb311","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+10.8.2024, 20:26:06 - DEBUG - auth.service - login with username: uri123 | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:26:06 - INFO - User login:  | {"_id":"66b7a2a0c29a022fe3aeb311","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true} | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:27:30 - INFO - Server is running on port: 3030
+10.8.2024, 20:28:32 - INFO - Req was made | / | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:28:32 - DEBUG - addReview - loggedinUser: | {"_id":"66b7a2a0c29a022fe3aeb311","fullname":"uri raz","isAdmin":true} | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:28:32 - DEBUG - addReview - review: | {"byUserId":"66b7a2a0c29a022fe3aeb311","toyId":"66b485f4ea9fc07441bec28c","txt":"hi","_id":"66b7a340af0a48086a1f5ecb"} | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:28:32 - ERROR - Failed to add review | BSONError: hex string must be 24 characters | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:28:32 - ERROR - while finding user undefined | BSONError: hex string must be 24 characters | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:30:06 - INFO - Server is running on port: 3030
+10.8.2024, 20:30:15 - INFO - Req was made | / | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:30:15 - ERROR - Failed to add review | ReferenceError: logger is not defined | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:30:23 - INFO - Server is running on port: 3030
+10.8.2024, 20:30:26 - INFO - Req was made | / | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:30:26 - ERROR - cannot add review | TypeError: Cannot read properties of undefined (reading '_id') | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:30:26 - ERROR - Failed to add review | TypeError: Cannot read properties of undefined (reading '_id') | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:33:47 - INFO - Server is running on port: 3030
+10.8.2024, 20:33:58 - INFO - Req was made | / | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:35:15 - INFO - Server is running on port: 3030
+10.8.2024, 20:35:48 - INFO - Server is running on port: 3030
+10.8.2024, 20:41:10 - INFO - Server is running on port: 3030
+10.8.2024, 20:41:12 - INFO - Req was made | /
+10.8.2024, 20:41:12 - ERROR - Failed to get review | TypeError: reviewService.getById is not a function
+10.8.2024, 20:41:44 - INFO - Server is running on port: 3030
+10.8.2024, 20:41:51 - INFO - Req was made | /
+10.8.2024, 20:41:51 - ERROR - Failed to get review | TypeError: reviewService.getById is not a function
+10.8.2024, 20:41:56 - INFO - Server is running on port: 3030
+10.8.2024, 20:42:22 - INFO - Server is running on port: 3030
+10.8.2024, 20:42:25 - INFO - Req was made | /
+10.8.2024, 20:42:25 - ERROR - while finding review undefined | BSONError: hex string must be 24 characters
+10.8.2024, 20:42:25 - ERROR - Failed to get review | BSONError: hex string must be 24 characters
+10.8.2024, 20:42:54 - INFO - Req was made | /
+10.8.2024, 20:42:54 - ERROR - while finding review undefined | BSONError: hex string must be 24 characters
+10.8.2024, 20:42:54 - ERROR - Failed to get review | BSONError: hex string must be 24 characters
+10.8.2024, 20:42:55 - INFO - Req was made | /
+10.8.2024, 20:42:55 - ERROR - while finding review undefined | BSONError: hex string must be 24 characters
+10.8.2024, 20:42:55 - ERROR - Failed to get review | BSONError: hex string must be 24 characters
+10.8.2024, 20:43:46 - INFO - Server is running on port: 3030
+10.8.2024, 20:43:49 - INFO - Req was made | /
+10.8.2024, 20:43:49 - ERROR - Failed to get review | BSONError: hex string must be 24 characters
+10.8.2024, 20:43:49 - ERROR - while finding review undefined | BSONError: hex string must be 24 characters
+10.8.2024, 20:43:53 - INFO - Req was made | /
+10.8.2024, 20:43:53 - ERROR - while finding review undefined | BSONError: hex string must be 24 characters
+10.8.2024, 20:43:53 - ERROR - Failed to get review | BSONError: hex string must be 24 characters
+10.8.2024, 20:43:57 - INFO - Req was made | /
+10.8.2024, 20:43:57 - ERROR - while finding review undefined | BSONError: hex string must be 24 characters
+10.8.2024, 20:43:57 - ERROR - Failed to get review | BSONError: hex string must be 24 characters
+10.8.2024, 20:44:22 - INFO - Req was made | /:id
+10.8.2024, 20:44:53 - INFO - Server is running on port: 3030
+10.8.2024, 20:44:56 - INFO - Req was made | /:id
+10.8.2024, 20:45:02 - INFO - Req was made | /
+10.8.2024, 20:45:24 - INFO - Req was made | /:id
+10.8.2024, 20:46:04 - INFO - Broadcasting event: review-removed | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:46:04 - INFO - Emit to all | 66b7a2a0c29a022fe3aeb311
+10.8.2024, 20:48:44 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 20:48:45 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
