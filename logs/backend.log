@@ -1058,3 +1058,992 @@
 10.8.2024, 20:46:04 - INFO - Emit to all | 66b7a2a0c29a022fe3aeb311
 10.8.2024, 20:48:44 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
 10.8.2024, 20:48:45 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 21:32:53 - INFO - Server is running on port: 3030
+10.8.2024, 21:33:42 - INFO - Server is running on port: 3030
+10.8.2024, 21:35:07 - INFO - Server is running on port: 3030
+10.8.2024, 21:42:41 - INFO - Server is running on port: 3030
+10.8.2024, 21:42:53 - INFO - Server is running on port: 3030
+10.8.2024, 21:44:56 - INFO - Server is running on port: 3030
+10.8.2024, 21:44:58 - INFO - Server is running on port: 3030
+10.8.2024, 23:13:56 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:13:56 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:15:22 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:15:22 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:50 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:50 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:51 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:51 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:52 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:52 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:53 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:53 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:53 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:54 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:54 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:54 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:55 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:55 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:56 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:56 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:57 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:17:57 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:18:00 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:18:00 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:18:01 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:18:01 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:18:01 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:18:12 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:18:12 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:19:58 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:19:58 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:23:34 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:23:34 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+10.8.2024, 23:30:12 - INFO - Req was made | /
+10.8.2024, 23:38:54 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+11.8.2024, 17:58:20 - INFO - Server is running on port: 3030
+11.8.2024, 17:59:06 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+11.8.2024, 17:59:07 - INFO - Req was made | / | 66b4c05734ccf94e712fbb51
+11.8.2024, 17:59:10 - DEBUG - auth.service - login with username: uri123 | 66b4c05734ccf94e712fbb51
+11.8.2024, 17:59:10 - ERROR - Failed to Login Error: Invalid username or password | 66b4c05734ccf94e712fbb51
+11.8.2024, 18:00:06 - DEBUG - auth.service - signup with username: uri123, fullname: uri raz
+11.8.2024, 18:00:06 - DEBUG - auth.route - new account created: {"username":"uri123","password":"$2b$10$qK4yEalmcPLYXX4r4LRUv.SBERQTj8REo4gI3FH.S3Q54JDtLIReS","fullname":"uri raz","isAdmin":true,"_id":"66b8d1f6a29d8cef0d6b8797"}
+11.8.2024, 18:00:06 - DEBUG - auth.service - login with username: uri123
+11.8.2024, 18:00:06 - INFO - User signup: | {"_id":"66b8d1f6a29d8cef0d6b8797","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+11.8.2024, 18:13:11 - INFO - Req was made | /
+11.8.2024, 18:13:34 - DEBUG - auth.service - login with username: uri123 | 66b8d1f6a29d8cef0d6b8797
+11.8.2024, 18:13:34 - INFO - User login:  | {"_id":"66b8d1f6a29d8cef0d6b8797","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true} | 66b8d1f6a29d8cef0d6b8797
+11.8.2024, 18:13:39 - INFO - Req was made | /
+11.8.2024, 18:14:05 - INFO - Req was made | /
+11.8.2024, 18:14:30 - INFO - Req was made | /
+11.8.2024, 18:14:34 - ERROR - while finding toy 66aa9084084e4f61f3e15898 | TypeError: Cannot read properties of null (reading '_id')
+11.8.2024, 18:14:34 - ERROR - Failed to get toy | TypeError: Cannot read properties of null (reading '_id')
+11.8.2024, 18:14:41 - INFO - Req was made | /
+11.8.2024, 18:15:07 - INFO - Req was made | /
+11.8.2024, 18:16:58 - INFO - Req was made | /
+11.8.2024, 18:17:15 - INFO - Req was made | /:id
+11.8.2024, 18:17:25 - INFO - Req was made | /
+11.8.2024, 18:19:00 - INFO - Server is running on port: 3030
+11.8.2024, 18:19:03 - INFO - Req was made | /
+11.8.2024, 18:23:37 - INFO - Server is running on port: 3030
+11.8.2024, 18:23:42 - INFO - Req was made | /
+11.8.2024, 18:27:00 - INFO - Req was made | /
+11.8.2024, 18:27:28 - INFO - Req was made | /:id
+11.8.2024, 18:27:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+11.8.2024, 18:27:40 - INFO - Req was made | /
+12.8.2024, 16:41:49 - INFO - Server is running on port: 3030
+12.8.2024, 17:01:26 - DEBUG - auth.service - login with username: uri123 | 66b4c05734ccf94e712fbb51
+12.8.2024, 17:01:26 - INFO - User login:  | {"_id":"66b8d1f6a29d8cef0d6b8797","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true} | 66b4c05734ccf94e712fbb51
+12.8.2024, 17:01:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:01:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:05:34 - INFO - Req was made | /
+12.8.2024, 17:06:37 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:06:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:06:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:08:01 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:08:01 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:08:01 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:08:07 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:08:07 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:08:10 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:08:34 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:08:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:08:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:08:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:09:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:09:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:09:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:10:20 - INFO - Req was made | /
+12.8.2024, 17:10:27 - DEBUG - auth.service - login with username: uri123
+12.8.2024, 17:10:27 - INFO - User login:  | {"_id":"66b8d1f6a29d8cef0d6b8797","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+12.8.2024, 17:10:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:10:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:10:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:10:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:12:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:15:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:15:29 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:15:29 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:34:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:34:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:36:14 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:36:14 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:36:15 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:39:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:39:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 17:39:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:21:21 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:21:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:21:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:21:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:21:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:21:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:22:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:25:09 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:25:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:25:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:25:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:28:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:28:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:28:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:29:18 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:29:18 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 19:29:19 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:29:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:29:57 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:30:33 - INFO - Req was made | /
+12.8.2024, 22:30:58 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:31:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:31:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:31:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:31:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:31:55 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:32:18 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:32:34 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:40:34 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:45:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:46:11 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:48:07 - ERROR - cannot remove review undefined | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:48:07 - ERROR - Failed to delete review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:48:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:48:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:48:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:48:51 - ERROR - cannot remove review undefined | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:48:51 - ERROR - Failed to delete review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:50:00 - ERROR - cannot remove review undefined | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:50:00 - ERROR - Failed to delete review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:50:01 - ERROR - cannot remove review undefined | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:50:01 - ERROR - Failed to delete review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:50:01 - ERROR - cannot remove review undefined | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:50:01 - ERROR - Failed to delete review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:50:02 - ERROR - cannot remove review undefined | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:50:02 - ERROR - Failed to delete review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:51:06 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:51:33 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:51:33 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:51:34 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:53:10 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:53:10 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:53:10 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:55:15 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 22:59:56 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:00:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:00:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:00:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:00:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:00:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:00:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:00:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:00:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:00:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:00:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:39 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:43 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:43 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:43 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:43 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:44 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:46 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:46 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:46 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:01:56 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:02:25 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:02:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:02:48 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:02:48 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:02:48 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:05:46 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:09:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:11:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:11:37 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:15:02 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:15:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:15:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:15:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:16:18 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:16:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:16:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:18:10 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:19:10 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:21:04 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:21:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:21:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:24:13 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:24:13 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:24:13 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:28:34 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:28:34 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:28:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:30:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:30:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:32:56 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:34:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:43:09 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:51:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:57:02 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+12.8.2024, 23:59:26 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 14:59:47 - INFO - Server is running on port: 3030
+13.8.2024, 15:25:16 - DEBUG - auth.service - login with username: uri123 | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:25:16 - INFO - User login:  | {"_id":"66b8d1f6a29d8cef0d6b8797","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true} | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:25:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:25:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:25:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:35:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:35:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:36:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:36:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:38:07 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:46:10 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:47:18 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:47:19 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:47:19 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:47:25 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:47:25 - ERROR - cannot add review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:47:25 - ERROR - Failed to get review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:47:27 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:47:27 - ERROR - cannot add review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:47:27 - ERROR - Failed to get review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:49:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:49:23 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:49:23 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:49:26 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:49:26 - ERROR - cannot add review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 15:49:26 - ERROR - Failed to get review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:19:37 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:19:37 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:19:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:22:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:22:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:22:46 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:22:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:22:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:23:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:23:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:23:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:23:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:23:55 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:32:13 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:35:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:35:42 - ERROR - cannot add review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:35:42 - ERROR - Failed to get review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:35:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:35:50 - ERROR - cannot add review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:35:50 - ERROR - Failed to get review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:35:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:35:51 - ERROR - cannot add review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:35:51 - ERROR - Failed to get review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:35:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:35:52 - ERROR - cannot add review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:35:52 - ERROR - Failed to get review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:36:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:36:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:36:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:36:11 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:36:11 - ERROR - cannot add review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:36:11 - ERROR - Failed to get review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:37:14 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:38:54 - DEBUG - auth.service - login with username: uri123
+13.8.2024, 16:38:55 - INFO - User login:  | {"_id":"66b8d1f6a29d8cef0d6b8797","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true}
+13.8.2024, 16:39:30 - INFO - Req was made | /
+13.8.2024, 16:40:06 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:40:06 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:40:07 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:40:27 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:41:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:41:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:41:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:44:39 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:45:49 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:45:49 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:45:49 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:45:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:45:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:46:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:46:19 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:46:19 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:46:19 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:46:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 16:46:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 17:04:49 - INFO - Req was made | /
+13.8.2024, 17:12:57 - ERROR - while finding toy 66aa9084084e4f61f3e15898 | TypeError: Cannot read properties of null (reading '_id')
+13.8.2024, 17:12:57 - ERROR - Failed to get toy | TypeError: Cannot read properties of null (reading '_id')
+13.8.2024, 17:17:11 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 17:17:11 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 18:36:18 - INFO - Server is running on port: 3030
+13.8.2024, 18:36:22 - ERROR - while finding toy 66b26af0256028673cc5e700 | TypeError: collection.findOne(...).aggregate is not a function
+13.8.2024, 18:36:22 - ERROR - Failed to get toy | TypeError: collection.findOne(...).aggregate is not a function
+13.8.2024, 18:38:38 - INFO - Server is running on port: 3030
+13.8.2024, 18:57:23 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 18:57:23 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 18:57:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 18:58:44 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 18:58:44 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 18:58:44 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 18:58:45 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 18:58:45 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 18:58:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 18:58:46 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 18:58:46 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 18:58:46 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 18:58:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 18:59:00 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:02:33 - INFO - Server is running on port: 3030
+13.8.2024, 19:05:15 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:05:16 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:06:08 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:06:08 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:06:08 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:48:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:48:26 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:48:27 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:48:27 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:48:43 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:48:43 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:48:44 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:48:48 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:56:21 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:56:21 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:56:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:56:25 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:56:25 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:56:25 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:56:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:56:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:56:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 19:56:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:22:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:22:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:22:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:22:25 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:22:25 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:22:25 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:22:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:22:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:22:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:22:35 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:22:35 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:22:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:22:39 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:22:55 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:23 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:27 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:27 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:27 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:28 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:28 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:38 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:38 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:58 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:58 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:34:58 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:35:00 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:36:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:36:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:36:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:36:20 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:36:20 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:36:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:36:21 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:36:21 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:36:21 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:39:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:44:09 - INFO - Server is running on port: 3030
+13.8.2024, 20:44:16 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:44:16 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:44:16 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:44:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:45:17 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:46:23 - INFO - Server is running on port: 3030
+13.8.2024, 20:47:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:47:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:47:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:47:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:48:34 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:48:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:48:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:48:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:48:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:48:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:48:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:48:44 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:50:19 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:50:19 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:50:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:50:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:50:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:50:49 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:50:49 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:50:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:00 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:00 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:01 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:01 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:10 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:10 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:10 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:14 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:14 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:15 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:15 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:15 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:15 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:16 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:16 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:16 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:17 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:17 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:17 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:18 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:18 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:19 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:52:21 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:34 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:34 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:36 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:36 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:40 - DEBUG - auth.service - login with username: uri123 | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:40 - INFO - User login:  | {"_id":"66b8d1f6a29d8cef0d6b8797","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true} | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:54:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:21 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:21 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:23 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:23 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:23 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:23 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:25 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:25 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:25 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:26 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:26 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:26 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:27 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:27 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:27 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:27 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:29 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:29 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:29 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:29 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:34 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:34 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:34 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:34 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:37 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:37 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:37 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:39 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:39 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:39 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:39 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:40 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:40 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:40 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:43 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:43 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:43 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:44 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:44 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:44 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:44 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:44 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:46 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:46 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:46 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:56:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:57:00 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:57:16 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:57:16 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:57:21 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:58:49 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:58:49 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:58:49 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:58:49 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:59:01 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:59:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:59:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 20:59:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:00:03 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:00:03 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:00:03 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:00:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:00:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:00:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:02:14 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:02:14 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:02:18 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:02:19 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:03:44 - INFO - Server is running on port: 3030
+13.8.2024, 21:03:44 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:03:44 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:03:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:04:06 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:04:06 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:04:09 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:04:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:04:29 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:06:06 - INFO - Req was made | /:id
+13.8.2024, 21:08:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:09:26 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:09:26 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:09:26 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:09:27 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:09:27 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:09:27 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:09:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:09:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:09:49 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:15:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:15:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:15:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:18:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:18:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:18:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:19:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:20:04 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:25:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:25:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:25:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:53 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:53 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:53 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:53 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:55 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:55 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:55 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:56 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:56 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:56 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:56 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:57 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:57 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:57 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:58 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:58 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:58 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:58 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:59 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:59 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:26:59 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:27:00 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:27:08 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:27:08 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:27:08 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:29:55 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:30:02 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:30:02 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:30:19 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:30:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:30:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:30:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:30:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:54 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:54 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:55 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:55 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:34:55 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:35:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:35:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:35:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:37:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:37:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:41:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:41:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:41:45 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:41:45 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:41:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:41:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:41:48 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:41:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:41:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:41:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:42:02 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:42:02 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:43:53 - INFO - Server is running on port: 3030
+13.8.2024, 21:44:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:44:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:44:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:44:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:44:46 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:45:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:45:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:45:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:47:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:47:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:47:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:47:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:47:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:47:53 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:51:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:51:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:51:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:51:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:52:31 - INFO - Server is running on port: 3030
+13.8.2024, 21:54:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:54:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:54:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:55:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:55:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 21:55:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:09:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:09:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:09:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:09:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:09:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:09:52 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:10:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:10:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:14:04 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:14:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:15:51 - INFO - Req was made | /:id | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:15:52 - INFO - Req was made | /:id | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:15:54 - INFO - Req was made | /:id | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:15:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:15:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:18:07 - INFO - Req was made | /:id | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:18:07 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:18:08 - INFO - Req was made | /:id | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:18:08 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:18:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:18:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:37:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:37:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:37:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:37:37 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:37:37 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:37:37 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:38:13 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:38:13 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:38:14 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:39:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:39:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:39:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:39:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:39:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:39:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:49:46 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:49:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:49:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:49:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:51:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:51:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:52:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:53:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:54:06 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:54:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:54:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:54:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:54:31 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:56:48 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:56:48 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:56:49 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:57:00 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:57:00 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:57:01 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:57:01 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:57:01 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:57:01 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:58:02 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:58:02 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:58:03 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:58:16 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:58:16 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:58:16 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:58:16 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:58:19 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:58:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:58:23 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:58:23 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:58:23 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 22:58:40 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:06:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:06:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:06:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:06:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:06:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:06:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:06:53 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:06:53 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:06:53 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:06:55 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:06:56 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:06:56 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:07:02 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:07:02 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:07:04 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:07:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:07:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:07:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:08:57 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:08:58 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:08:58 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:08:58 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:12:06 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:12:06 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:15:48 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:15:48 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:16:53 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:16:53 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:16:53 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:16:55 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:16:55 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:20:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:20:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:22:33 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:22:33 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:22:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:22:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:25:57 - DEBUG - auth.service - login with username: uri123 | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:25:58 - INFO - User login:  | {"_id":"66b8d1f6a29d8cef0d6b8797","username":"uri123","fullname":"uri raz","imgUrl":null,"isAdmin":true} | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:26:05 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:26:05 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:26:08 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:26:08 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:26:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:26:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:26:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:26:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:26:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:32:18 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:32:18 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:24 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:24 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:28 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:34 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:37 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:38 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:41 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:41 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:42 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:42 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:46 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:46 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:47 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:37:47 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:43:43 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:43:43 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:43:46 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:43:46 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:43:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:43:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:43:49 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:43:49 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:44:18 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:44:18 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:44:19 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:44:19 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:44:19 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:44:19 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:44:21 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:44:21 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:44:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:44:37 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:44:37 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:45:18 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:45:18 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:45:19 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:45:19 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:45:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:45:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:45:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:45:26 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:45:26 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:46:10 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:46:10 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:46:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:53:04 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:53:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:53:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:53:05 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:56:48 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:56:48 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:56:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:56:51 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:56:54 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:56:55 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:56:56 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:56:58 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:56:58 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:56:59 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:56:59 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:00 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:00 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:02 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:02 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:05 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:05 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:08 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:08 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:10 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:13 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:13 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:15 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:15 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:40 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:58:43 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:14 - ERROR - cannot remove review undefined | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:14 - ERROR - Failed to delete review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:17 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:18 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:20 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:20 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:26 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:28 - ERROR - cannot remove review undefined | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:28 - ERROR - Failed to delete review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:29 - ERROR - cannot remove review undefined | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:29 - ERROR - Failed to delete review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:31 - ERROR - cannot remove review undefined | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:31 - ERROR - Failed to delete review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:33 - ERROR - cannot remove review undefined | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:33 - ERROR - Failed to delete review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:34 - ERROR - cannot remove review undefined | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+13.8.2024, 23:59:34 - ERROR - Failed to delete review | BSONError: hex string must be 24 characters | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:01:03 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:01:09 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:01:16 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:01:16 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:01:17 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:01:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:01:50 - INFO - Broadcasting event: review-removed | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:01:50 - INFO - Emit to all | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:01:50 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:06:41 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:06:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:07:35 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:07:36 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:07:39 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:07:39 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:07:39 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:07:42 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:07:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:07:45 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:07:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:07:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:07:47 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:07:57 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:08:00 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:08:03 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:08:12 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:08:15 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:08:25 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:08:26 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:09:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:09:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:09:20 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:09:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:09:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:09:22 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:09:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:09:24 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:09:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:09:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:09:30 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:09:32 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+14.8.2024, 0:09:33 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+15.8.2024, 18:46:37 - INFO - Server is running on port: 3030
+15.8.2024, 18:47:03 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+15.8.2024, 18:47:03 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+15.8.2024, 18:47:03 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+15.8.2024, 18:47:03 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+15.8.2024, 18:47:03 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797
+15.8.2024, 18:47:04 - INFO - Req was made | / | 66b8d1f6a29d8cef0d6b8797

@@ -58,9 +58,28 @@ async function query(filterBy = { name: '', price: 0, labels: [], createdAt: '',
 async function getById(toyId) {
 	try {
 		const collection = await dbService.getCollection('toy')
-		const toy = await collection.findOne({ _id: ObjectId.createFromHexString(toyId) })
-		toy.createdAt = toy._id.getTimestamp()
-		return toy
+
+		const toys = await collection.aggregate([
+			{ $match: { _id: ObjectId.createFromHexString(toyId) } },
+			{
+				$lookup: {
+					from: 'review',
+					localField: '_id',
+					foreignField: 'toyId',
+					as: 'reviews' // This will create an array of reviews
+				}
+			}
+			// No $unwind here to keep all reviews in an array
+		]).toArray() // Convert the aggregation cursor to an array
+
+		if (toys.length) {
+			const toy = toys[0] // Since we're only expecting one toy
+			toy.createdAt = toy._id.getTimestamp()
+			return toy
+		} else {
+			return null // Or handle the case where the toy wasn't found
+		}
+
 	} catch (err) {
 		loggerService.error(`while finding toy ${toyId}`, err)
 		throw err

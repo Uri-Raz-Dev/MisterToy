@@ -6,7 +6,6 @@ import { dbService } from '../../services/db.service.js'
 export const reviewService = { query, remove, add, getById }
 
 async function query(filterBy = {}) {
-    console.log(filterBy)
     const criteria = {}
 
     if (filterBy.byUserId) {
